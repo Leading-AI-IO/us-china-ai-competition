@@ -77,7 +77,7 @@ graph TD
     style D fill:#161A2A,stroke:#3C3B6E,color:#E4E6F0
     style E fill:#1F1F23,stroke:#8F2D33,color:#F0E6E4
     style F fill:#1F1F23,stroke:#4A4A52,color:#E8E6E1
-    style G fill:#FFFFFF,stroke:#FFFFFF,color:#0A0B0D
+    style G fill:#FFFFFF,stroke:#8A8A90,stroke-width:2px,color:#0A0B0D
 ```
 
 上から順に、指標・上流・計算資源・モデル・データ・陣営・人と降りていく。<br/>
@@ -302,7 +302,7 @@ graph TD
     style B fill:#2A1416,stroke:#8F2D33,color:#F0E6E4
     style C fill:#1F1F23,stroke:#4A4A52,color:#E8E6E1
     style D fill:#1F1F23,stroke:#4A4A52,color:#E8E6E1
-    style E fill:#FFFFFF,stroke:#FFFFFF,color:#0A0B0D
+    style E fill:#FFFFFF,stroke:#8A8A90,stroke-width:2px,color:#0A0B0D
 ```
 
 停止されたのは10月追加分だけである。<br/>
@@ -518,7 +518,7 @@ graph TD
     style C fill:#161A2A,stroke:#3C3B6E,color:#E4E6F0
     style D fill:#1F1F23,stroke:#8F2D33,color:#F0E6E4
     style E fill:#1F1F23,stroke:#8F2D33,color:#F0E6E4
-    style F fill:#FFFFFF,stroke:#FFFFFF,color:#0A0B0D
+    style F fill:#FFFFFF,stroke:#8A8A90,stroke-width:2px,color:#0A0B0D
 ```
 
 上の三層は、物と量を縛っている。<br/>
@@ -689,7 +689,7 @@ graph TD
     style E fill:#161A2A,stroke:#3C3B6E,color:#E4E6F0
     style F fill:#161A2A,stroke:#3C3B6E,color:#E4E6F0
     style G fill:#1F1F23,stroke:#3C3B6E,color:#E4E6F0
-    style H fill:#FFFFFF,stroke:#FFFFFF,color:#0A0B0D
+    style H fill:#FFFFFF,stroke:#8A8A90,stroke-width:2px,color:#0A0B0D
 ```
 
 ## データが生まれる場所の非対称
@@ -841,7 +841,7 @@ graph TD
     style A fill:#161A2A,stroke:#3C3B6E,color:#E4E6F0
     style B fill:#2A1416,stroke:#8F2D33,color:#F0E6E4
     style C fill:#1F1F23,stroke:#4A4A52,color:#E8E6E1
-    style D fill:#FFFFFF,stroke:#FFFFFF,color:#0A0B0D
+    style D fill:#FFFFFF,stroke:#8A8A90,stroke-width:2px,color:#0A0B0D
     style E fill:#1F1F23,stroke:#3C3B6E,color:#E4E6F0
 ```
 
@@ -957,11 +957,12 @@ Pax Silica の署名国を公表するのは米国国務省である。
 ```mermaid
 graph TD
     A["条文で書ける層"] --> B["上流<br/>生産枠・規制対象・時期"]
-    A --> C["計算資源<br/>TPP・帯域・比率・測定主体"]
-    A --> D["成果物<br/>重みの移転・接続の提供"]
-    A --> E["データ<br/>三権分置・行政ガバナンス"]
-    A --> F["陣営<br/>署名・名簿・統制システム"]
-    G["条文で書けない層"] --> H["人<br/>──────<br/>2017年比 89%減<br/>直近1年 80%減<br/>純流入 324.6 → 26.0"]
+    B --> C["計算資源<br/>TPP・帯域・比率・測定主体"]
+    C --> D["成果物<br/>重みの移転・接続の提供"]
+    D --> E["データ<br/>三権分置・行政ガバナンス"]
+    E --> F["陣営<br/>署名・名簿・統制システム"]
+    F -.-> G["条文で書けない層"]
+    G --> H["人<br/>──────<br/>2017年比 89%減<br/>直近1年 80%減<br/>純流入 324.6 → 26.0"]
 
     style A fill:#1F1F23,stroke:#4A4A52,color:#E8E6E1
     style B fill:#2A1416,stroke:#8F2D33,color:#F0E6E4
@@ -970,7 +971,7 @@ graph TD
     style E fill:#1F1F23,stroke:#8F2D33,color:#F0E6E4
     style F fill:#161A2A,stroke:#3C3B6E,color:#E4E6F0
     style G fill:#1F1F23,stroke:#E8E2D8,color:#E8E6E1
-    style H fill:#FFFFFF,stroke:#FFFFFF,color:#0A0B0D
+    style H fill:#FFFFFF,stroke:#8A8A90,stroke-width:2px,color:#0A0B0D
 ```
 
 ## 企業と国家の線は、技術では引けない

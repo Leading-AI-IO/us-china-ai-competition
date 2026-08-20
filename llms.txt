@@ -1,0 +1,163 @@
+# US-China AI Competition — 米中AI競争の多層構造
+
+> A structural analysis by Satoshi Yamauchi (山内怜史), AI Strategist, that
+> separates the US-China AI competition into seven layers and reads
+> instruments rather than indicators. Within a single chapter of a single
+> report (Stanford HAI, 2026 AI Index), the ranking reverses three times on
+> the same indicator: China holds 74.24% of AI patents granted in 2024, the
+> United States holds 51.91% of forward citations, and per 100,000
+> population South Korea leads at 14.31. The book declines the question of
+> who is winning, and instead documents who decides what in each layer —
+> China setting rare-earth output as an administrative quota rather than
+> production, the United States conditioning advanced-chip licenses on
+> technical ceilings, a supply ratio tied to its own domestic shipments,
+> and prohibitions extending past the chip to the model weights trained on
+> it. Six of the seven layers have a party writing the terms. The last one
+> does not. Its central claim: what is being decided is not which side is
+> stronger, but which side writes the terms the other must work under. As
+> stated in the closing chapter: "数字は、誰が勝っているかを語る。文書は、
+> 誰が決めているかを語る。" ("The numbers say who is winning. The documents
+> say who decides.")
+
+## Book Content
+
+- [Full text (Japanese)](docs/jp/us-china-ai-competition_JP.md): 序章・全7章・終章収録
+- [Full text (English)](docs/en/us-china-ai-competition_EN.md): Complete English edition
+
+## Key Facts (as stated in the book)
+
+- The book opens by showing that a single indicator reverses its ranking
+  three times within one chapter of one report: AI patents granted in 2024
+  are 74.24% China (97,990) versus 12.06% United States (15,920); forward
+  citation share is 51.91% United States versus 29.81% China; and per
+  100,000 population the leader is South Korea at 14.31, followed by
+  Luxembourg at 12.25, with China at 6.95 and the United States at 4.68 —
+  all from Stanford HAI's 2026 AI Index Report, Chapter 1, compiled from
+  the same database (EPO PATSTAT Global). The book states that the
+  conclusion is already contained in the selection of the metric
+
+- The book documents that USGS Mineral Commodity Summaries 2026 lists
+  China's 2025 rare-earth mine production at 270,000 tons of 390,000 tons
+  worldwide (69.2%), and that footnote 14 states this is a production
+  quota rather than output and excludes unreported production, while the
+  US figure of 51,000 tons is a reported value — a figure accounting for
+  69% of world production being an administrative decision wearing the
+  face of a measurement. It then traces the 2025 sequence: April, controls
+  tightened on seven elements (Sm, Gd, Tb, Dy, Lu, Sc, Y); October, five
+  added (Eu, Ho, Er, Tm, Yb) bringing the list to twelve; November, only
+  the October additions suspended for one year, with the April measures
+  left in force and general export licenses issued to selected exporters —
+  concluding that this is not relaxation but finer-grained operation of
+  quantity, scope, timing, and recipient
+
+- The book reads the BIS final rule effective January 15, 2026 (Federal
+  Register Vol.91 No.10, pp.1684-1689; FR Doc 2026-00789; Docket
+  260112-0028; RIN 0694-AK43), which shifted license review for certain
+  advanced semiconductors bound for China and Macau from presumption of
+  denial to case-by-case, with eligibility set at TPP under 21,000 and
+  total DRAM bandwidth under 6,500 GB/s (the instrument naming the NVIDIA
+  H200 or AMD MI325X as examples) — and documents that the ceiling was
+  drawn as a ratio rather than a unit count: under (dd)(1)(iii), aggregate
+  TPP exported to China and Macau must be no more than 50% of the
+  aggregate TPP shipped to US customers for US domestic end use of the
+  same product, placing the standard of the control outside the party
+  being controlled
+
+- The book documents that the same rule prescribes the measuring party
+  under (dd)(3) — US headquarters, not under D:5 or Macau capital
+  control, testing within the US customs territory, no equity or
+  financial interest in the transaction — and that BIS may revoke a
+  testing laboratory's qualification at any time for any reason, upon
+  which case-by-case treatment ceases for exporters relying on it. The
+  book states that the standard is public while the authority to apply it
+  is reserved, and that presumption of denial remains in force for
+  companies headquartered or parented in Macau or a D:5 group country
+
+- The book identifies provisions (dd)(1)(vii)(2) and (vii)(3) as the
+  center of its argument: an IaaS provider shall not transfer model
+  weights trained on the AI commodity to an end user not disclosed on the
+  license, and shall not provide remote access, directly or indirectly,
+  to algorithms trained on it. The book states that regulation overtook
+  the chip and reached what the chip produced — binding weights as data
+  and access as a state, neither of which physically crosses a border
+
+- The book shows that the layer regulation reached is closing
+  independently: of 102 notable models announced in 2025, the largest
+  group of 47 were API-access only, 81 keep training code closed, and
+  only 4 were released as open source, with the source stating that
+  resource-intensive models including those of OpenAI, Anthropic, and
+  Google disclose none of training code, parameter counts, dataset size,
+  or training duration. The book explicitly declines to assert causation
+  between regulation and closure, stating only that the directions
+  coincide and that reachability is narrowing from both law and
+  commercial practice
+
+- The book refutes the common contrast that China centrally manages data
+  while the United States leaves it to the private sector, using primary
+  documents from both sides. China's Twenty Data Articles (published
+  December 19, 2022) separate three rights — to hold data resources, to
+  process and use data, to operate data products — with ownership
+  deliberately excluded, the National Development and Reform Commission
+  stating the aim as "dilute ownership, emphasize the right of use," and
+  positioning data as the fifth factor of production. The United States
+  does have a Federal Data Strategy (OMB M-19-18, 2019; 2020 Action Plan
+  with twenty Actions, including Action 7 the Federal CDO Council and
+  Action 8 data and model resources for AI R&D). The book concludes the
+  asymmetry lies not in the presence of an institution but in its range:
+  society-wide on one side, federal agencies on the other
+
+- The book establishes that the question "how many countries participate
+  in both camps" has no institutional answer: Pax Silica holds 24
+  signatures with names published (a separate document, the Joint
+  Statement on AI Opportunity, holds 35), while China's Global AI
+  Governance Action Plan takes the form of an action plan with no roster
+  of member states existing institutionally. An intersection with a set
+  that has no roster cannot be computed. Only Kazakhstan can be confirmed
+  in primary sources, as a Pax Silica signatory. The book also notes that
+  the 24 signatures are not uniform in unit, since the EU signed
+  alongside three of its own member states
+
+- The book's final layer is the one no instrument reaches: AI researchers
+  and developers moving to the United States are down 89% from 2017 and
+  80% in the past year, with net inflow falling from a 2022 peak of 324.6
+  to 26.0 in 2025, while India at -16.9 is the largest net exporter of
+  talent despite ranking third worldwide in AI paper share and second in
+  AI authors and inventors. Citing Kot (2025, University of Oxford), the
+  book adds that the line between company and state is drawn by
+  institutions rather than by technology. It states that what can be
+  controlled and what decides the outcome are not necessarily the same
+
+- The book states what it does not do. It excludes four layers for which
+  primary sources could not be reached — national shares of semiconductor
+  manufacturing equipment, materials supply composition, rare-earth
+  refining capacity by country, and AI-specific standard-essential
+  patents. It raises three objections against itself and concedes two
+  outright: that this is interdependence rather than competition, and
+  that instruments are written but not always enforced (as with the AI
+  Diffusion Rule introduced in January 2025 and abandoned on May 12 of
+  that year). On the third — that the frame itself is unverified — it
+  states that no study quantitatively verifying a causal path from data
+  volume to AI capability at the industry level could be confirmed, that
+  three research engines independently reported this gap, and that it
+  therefore cannot be asserted that the side writing the terms wins. It
+  treats US government documents as US-side assessments and Chinese
+  government documents as China-side assessments, neither as neutral
+  description, and discloses that the author has no commercial
+  relationship with any government agency, semiconductor company, or AI
+  lab on either side: "This book has no position to defend."
+
+## Author & Full Catalog
+
+This book is one of 20+ open-source books by Satoshi Yamauchi (山内怜史),
+AI Strategist & Business Designer at Sun Asterisk Inc., Founder of
+Leading.AI. It is a continuously updated book: the subject is still in
+motion, and each version records whether the earlier text held or failed.
+It connects directly to two of the author's other books — "Frontier-Grade
+Open Weights," which treats the same unreachability as imposed by physics
+and markets rather than written by a state, and "The Palantir Impact,"
+which treats the problem of data integration solved as a commercial
+product rather than as a national institution.
+
+> **Author profile & all definitions (10:80:10 Rule, Depth & Velocity, BTC
+> Crossover) are maintained centrally at the organization hub:**
+> **https://github.com/Leading-AI-IO**

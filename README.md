@@ -1,6 +1,7 @@
 # US-China AI Competition
 
-**米中AI競争の多層構造 ── 決めているのは、強さではなく条件である / The Layers of US-China AI Competition — What Is Being Decided Is Not Who Is Stronger, but Who Writes the Terms.**
+**米中AI競争の多層構造 ── 決めているのは、強さではなく条件である** <br/>
+**The Layers of US-China AI Competition — What Is Being Decided Is Not Who Is Stronger, but Who Writes the Terms.**
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Language](https://img.shields.io/badge/Language-Japanese%20%7C%20English-blue)](docs/)

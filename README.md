@@ -8,7 +8,7 @@
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--21-brightgreen)](https://github.com/Leading-AI-IO/us-china-ai-competition/releases)
 
 <p align="left">
-  <img src="./assets/ogp_design.png" width="80%">
+  <img src="./assets/ogp_design.png" width="90%">
 </p>
 
 *Read this in other languages: [English](README_en.md)*
@@ -133,6 +133,7 @@
 | **The-forward-deployed-shift** | 成果実装 ── FDEが示す、AIで「作る」が終わった世界の価値のありか。 | [GitHub](https://github.com/Leading-AI-IO/the-forward-deployed-shift)  |
 | **Earned-ai-model-optionality** | AIモデルは選べる。選べるのは、選べるようにした企業だけだ。 | [GitHub](https://github.com/Leading-AI-IO/earned-ai-model-optionality)  |
 | **Frontier-Grade Open Weights** | フロンティア級のオープンウェイトモデルは、開かれたのか。 | [GitHub](https://github.com/Leading-AI-IO/frontier-grade-open-weights)  |
+| **The China AI Registry** | あなたが名前を言える5つの中国AIモデルは、中国が数えているものの1%に満たない。 | [GitHub](https://github.com/Leading-AI-IO/the-china-ai-registry)  |
 
 ---
 

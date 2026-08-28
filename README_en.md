@@ -7,7 +7,7 @@
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--21-brightgreen)](https://github.com/Leading-AI-IO/us-china-ai-competition/releases)
 
 <p align="left">
-  <img src="./assets/ogp_design.png" width="80%">
+  <img src="./assets/ogp_design.png" width="90%">
 </p>
 
 *Read this in other languages: [日本語](README.md)*
@@ -125,6 +125,7 @@ This book is part of an interconnected ecosystem of open-source projects.
 | **The-forward-deployed-shift** | The Forward Deployed Shift — Where Value Survives When "Building" Is Over | [GitHub](https://github.com/Leading-AI-IO/the-forward-deployed-shift)  |
 | **Earned-ai-model-optionality** | AI Models Are Switchable. But Only for Companies That Made Them So | [GitHub](https://github.com/Leading-AI-IO/earned-ai-model-optionality)  |
 | **Frontier-Grade Open Weights** | They Matched the Frontier. But No One Can Hold Them | [GitHub](https://github.com/Leading-AI-IO/frontier-grade-open-weights)  |
+| **The China AI Registry** | The five Chinese AI models you can name are under 1% of the ones China counts | [GitHub](https://github.com/Leading-AI-IO/the-china-ai-registry)  |
 
 ---
 

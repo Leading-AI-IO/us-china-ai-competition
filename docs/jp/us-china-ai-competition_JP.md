@@ -854,6 +854,24 @@ AI Opportunity Statement の35署名国に対し、中国側の枠組みとの�
 本書はこれを、**報道として記録するだけにする**。<br/>
 国務省が内容を確認していない以上、本章の結論には用いない。
 
+（2026年9月16日追記）
+
+## 名簿のある枠組みの名を冠した構想
+
+2026年9月12日から13日、習近平国家主席は、インド・ニューデリーで開かれた第18回BRICS首脳会議に出席した。<br/>
+中国外交部の9月14日の定例会見記録によれば、習主席はこの場で、「オープンソースで包摂的なAIイニシアチブ」などを提案した。<br/>
+あわせて、中国が率先して「BRICS AIオープンソースコミュニティ」を設立し、「BRICSデジタルエコシステム・クラウドプラットフォーム」を構築すると表明した。<br/>
+中国は翌年、BRICSの議長国を引き継ぐ。
+
+ここで、形式の違いが一つ生じる。<br/>
+《人工智能全球治理行动计划》は、加盟国の名簿を持たない行動計画だった。<br/>
+BRICSは、加盟国が定まった枠組みである。<br/>
+新しい構想は、その名を冠している。
+
+ただし、このコミュニティに誰が参加できるのか、BRICSの加盟国に限られるのかは、会見記録からは読み取れない。<br/>
+**本書は、ここで名簿が作られたとは書かない。**<br/>
+確認できるのは、中国が、名簿を持たない行動計画とは別に、加盟国の定まった枠組みの名のもとでAIの構想を示した、という事実までである。
+
 ## 数えられないことは、構造である
 
 第1章では、数え方によって順位が変わることを見た。<br/>
@@ -881,6 +899,11 @@ AI Opportunity Statement の35署名国に対し、中国側の枠組みとの�
 3. 中华人民共和国外交部《人工智能全球治理行动计划》（2025年7月26日公表）<br/>
    <https://www.fmprc.gov.cn/>
 4. Reuters「米国務省、AI枠組みの署名国に中国側枠組みとの二重参加を認めない方針＝書簡草案」（2026年8月14日／国務省はコメントを拒否）
+
+（2026年9月16日追記）
+
+5. Ministry of Foreign Affairs of the People's Republic of China「Foreign Ministry Spokesperson Guo Jiakun’s Regular Press Conference on September 14, 2026」（2026年9月14日／BRICS AIオープンソースコミュニティ、BRICSデジタルエコシステム・クラウドプラットフォーム）<br/>
+   <https://www.fmprc.gov.cn/eng/xw/fyrbt/202609/t20260914_12021997.html>
 
 <br/>
 
@@ -1050,6 +1073,36 @@ Kot, C.H.B. (2025)『Dual-Use Security Dilemma and the U.S.-China AI Technology 
 
 **どちらも、相手が使える条件を書いている。**
 
+（2026年9月16日追記）
+
+## 減速を求める声も、条件の形で書かれていた
+
+2026年9月、米国のAI企業AnthropicのCEOであるダリオ・アモディは、エッセイ「We Must Pace the Frontier」を公開し、フロンティアAIの開発ペースを落とすよう、業界と各国政府に求めた。<br/>
+同じエッセイは、民主主義国の内側でペースを落とせる幅は、米国企業が中国共産党系のプロジェクトに対して持つリードの大きさに制約される、と書いている。<br/>
+そのうえで、強力なAIチップと半導体製造装置を中国に売らないことなどを、ペース調整に欠かせない措置として挙げた。
+
+同月14日の中国外交部の定例会見で、アモディらによる減速の呼びかけについて問われた郭嘉昆報道官は、次のように答えた。
+
+> AI is a consequential technology for the wellbeing of all humanity. All parties should jointly promote the open and inclusive development of AI for good and for all. Fear-mongering, confrontation and vicious competition will only hamper efforts toward sound global AI governance, which serves no one’s interest.
+
+この回答は、アモディの名にも、エッセイの中身にも、直接は触れていない。<br/>
+同じ会見の別の質疑で、郭報道官は、中国が率先してBRICS AIオープンソースコミュニティを設立すると習主席が表明したことを伝えている（第6章の追記を参照）。
+
+二つを並べると、本書の命題と同じ形が現れる。<br/>
+米国のAI企業から出た減速論は、ペースを落とす前提として、中国に何を渡さないかを書いている。<br/>
+中国外交部は、減速論には直接答えず、同じ会見の別の質疑で、誰と何を開くかを示している。<br/>
+**片方は渡さない相手を書き、もう片方は開く相手を示している。**
+
+減速を求める声は、本書が読んできた七つの層の外から来たように見える。<br/>
+だが、その中身もまた、相手が使える条件の記述だった。
+
+### 参考文献（2026年9月16日追記分）
+
+1. Amodei, D.「We Must Pace the Frontier」（2026年9月）<br/>
+   <https://darioamodei.com/post/we-must-pace-the-frontier>
+2. Ministry of Foreign Affairs of the People's Republic of China「Foreign Ministry Spokesperson Guo Jiakun’s Regular Press Conference on September 14, 2026」（2026年9月14日）<br/>
+   <https://www.fmprc.gov.cn/eng/xw/fyrbt/202609/t20260914_12021997.html>
+
 ## 想定される、三つの反論
 
 ### 反論1：これは競争ではなく、相互依存である
@@ -1123,6 +1176,10 @@ HBMの主要製造は、SK hynix・Samsung（韓国）とMicron（米国）が�
 本書は2026年8月に書かれた。<br/>
 記述の多くは、更新される。<br/>
 規則は改正され、規制は停止され、署名国は増え、統計は翌年の版で書き換わる。
+
+（2026年9月16日追記）
+
+2026年9月16日に、第6章と終章へ、同月の動きを追記した。
 
 だが、更新されないものがある。<br/>
 **条件を書いているのは誰かを、文書で確かめる態度である。**

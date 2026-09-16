@@ -853,6 +853,24 @@ The State Department declined to comment on what was described as a leaked inter
 This book **records it as reporting only.**<br/>
 Since the State Department has not confirmed the content, it is not used in this chapter's conclusion.
 
+(Added on September 16, 2026)
+
+## An Initiative Bearing the Name of a Framework That Has Members
+
+From September 12 to 13, 2026, President Xi Jinping attended the 18th BRICS Summit in New Delhi, India.<br/>
+According to the transcript of the Chinese Ministry of Foreign Affairs' regular press conference on September 14, President Xi proposed initiatives there, including an "open source and inclusive AI initiative."<br/>
+He also announced that China will be a pioneer in establishing a "BRICS AI open source community" and will establish a "BRICS digital ecosystem cloud platform."<br/>
+China will take over the BRICS chairship next year.
+
+Here, one difference in form arises.<br/>
+The Global AI Governance Action Plan was an action plan with no roster of members.<br/>
+BRICS is a framework whose members are defined.<br/>
+The new initiative bears its name.
+
+However, who may join this community, and whether it is limited to BRICS members, cannot be read from the transcript.<br/>
+**This book does not write that a roster has been created here.**<br/>
+What can be confirmed goes only as far as this: apart from the action plan without a roster, China presented an AI initiative under the name of a framework whose members are defined.
+
 ## That It Cannot Be Counted Is Itself a Structure
 
 Chapter 1 showed that the ranking changes with the method of counting.<br/>
@@ -880,6 +898,11 @@ Finally, look at the layer where they cannot be written.
 3. Ministry of Foreign Affairs of the People's Republic of China, "Global AI Governance Action Plan" (published July 26, 2025)<br/>
    <https://www.fmprc.gov.cn/>
 4. Reuters, "U.S. State Department draft letter: signatories to AI framework not to be permitted dual participation with Chinese framework" (August 14, 2026; the State Department declined to comment)
+
+(Added on September 16, 2026)
+
+5. Ministry of Foreign Affairs of the People's Republic of China, "Foreign Ministry Spokesperson Guo Jiakun’s Regular Press Conference on September 14, 2026" (September 14, 2026; BRICS AI open source community, BRICS digital ecosystem cloud platform)<br/>
+   <https://www.fmprc.gov.cn/eng/xw/fyrbt/202609/t20260914_12021997.html>
 
 <br/>
 
@@ -1049,6 +1072,36 @@ The means differ. The direction is the same.
 
 **Both are writing the terms under which the other must work.**
 
+(Added on September 16, 2026)
+
+## The Calls to Slow Down Were Also Written as Terms
+
+In September 2026, Dario Amodei, CEO of the U.S. AI company Anthropic, published an essay titled "We Must Pace the Frontier," calling on the industry and on governments to slow the pace of frontier AI development.<br/>
+The same essay states that how far the pace can be slowed within democracies is constrained by the size of the lead U.S. companies hold over CCP-affiliated projects.<br/>
+It then lists not selling powerful AI chips and semiconductor manufacturing equipment to China, among other measures, as essential to pacing.
+
+At the Chinese Ministry of Foreign Affairs' regular press conference on the 14th of the same month, Spokesperson Guo Jiakun, asked about the calls by Amodei and others to slow down, answered as follows.
+
+> AI is a consequential technology for the wellbeing of all humanity. All parties should jointly promote the open and inclusive development of AI for good and for all. Fear-mongering, confrontation and vicious competition will only hamper efforts toward sound global AI governance, which serves no one’s interest.
+
+This answer does not directly mention Amodei by name, nor the content of the essay.<br/>
+In a separate exchange at the same press conference, Spokesperson Guo relayed that President Xi had announced China will be a pioneer in establishing a BRICS AI open source community (see the addition to Chapter 6).
+
+Placed side by side, the two show the same shape as this book's proposition.<br/>
+The call to slow down that came from a U.S. AI company writes, as a precondition for pacing, what is not to be transferred to China.<br/>
+The Chinese Ministry of Foreign Affairs did not answer the call directly, and in a separate exchange at the same press conference, indicated with whom and what it will open.<br/>
+**One side writes whom it will not transfer to; the other indicates whom it will open to.**
+
+The calls to slow down appear to have come from outside the seven layers this book has read.<br/>
+Yet their content, too, was a statement of the terms under which the other side may work.
+
+### References (added on September 16, 2026)
+
+1. Amodei, D., "We Must Pace the Frontier" (September 2026)<br/>
+   <https://darioamodei.com/post/we-must-pace-the-frontier>
+2. Ministry of Foreign Affairs of the People's Republic of China, "Foreign Ministry Spokesperson Guo Jiakun’s Regular Press Conference on September 14, 2026" (September 14, 2026)<br/>
+   <https://www.fmprc.gov.cn/eng/xw/fyrbt/202609/t20260914_12021997.html>
+
 ## Three Anticipated Objections
 
 ### Objection 1: This is not competition but interdependence
@@ -1122,6 +1175,10 @@ And so far as this book has read, **what both countries are committing instituti
 This book was written in August 2026.<br/>
 Much of what it states will be updated.<br/>
 Rules will be amended, controls suspended, signatories added, statistics rewritten in next year's edition.
+
+(Added on September 16, 2026)
+
+On September 16, 2026, additions reflecting that month's developments were made to Chapter 6 and the Final Chapter.
 
 But something will not be updated.<br/>
 **The disposition to confirm, in documents, who is writing the terms.**

@@ -127,6 +127,7 @@ This book is part of an interconnected ecosystem of open-source projects.
 | **Frontier-Grade Open Weights** | They Matched the Frontier. But No One Can Hold Them | [GitHub](https://github.com/Leading-AI-IO/frontier-grade-open-weights)  |
 | **The China AI Registry** | The five Chinese AI models you can name are under 1% of the ones China counts | [GitHub](https://github.com/Leading-AI-IO/the-china-ai-registry)  |
 | **The AI Forecast Registry** | The AI Forecast Registry — Recording What Was Predicted, Before It Resolves | [GitHub](https://github.com/Leading-AI-IO/the-ai-forecast-registry)  |
+| **the Japan Breach Registry 2026** | The Japan Breach Registry 2026 | [GitHub](https://github.com/Leading-AI-IO/the-japan-breach-registry-2026)  |
 
 ---
 

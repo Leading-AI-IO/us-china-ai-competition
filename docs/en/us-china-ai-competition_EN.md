@@ -328,6 +328,29 @@ As confirmed in Chapter 1, the indicators of AI competition change their ranking
 But what happens in this layer is not a question of counting.<br/>
 It is a fact recorded in documents: **a figure accounting for 69% of the world is an administrative allocation, and the recipients and timing of that allocation are being operated one by one.**
 
+(Added on November 1, 2026)
+
+## The Suspension Deadline Also Moved Outside the Announcements
+
+The October additions suspended for one year in November 2025 reach the end of their suspension on November 10, 2026.<br/>
+At the regular press conference on April 9, 2026, Ministry of Commerce Spokesperson He Yadong restated that deadline.
+
+> 根据中美吉隆坡经贸磋商共识，中方2025年10月9日公布的相关出口管制等措施，暂停实施至2026年11月10日。<br/>
+> (Based on the consensus of the China-U.S. economic and trade consultations in Kuala Lumpur, the relevant export control and other measures announced by China on October 9, 2025 are suspended until November 10, 2026.)
+
+On September 24, 2026, a U.S.-China summit was held in Washington.<br/>
+The list published by China's Ministry of Foreign Affairs on September 26, "中美达成八点成果共识" (China and the U.S. reach consensus on eight outcomes), includes "延期吉隆坡经贸磋商成果" (extending the outcomes of the Kuala Lumpur economic and trade consultations).<br/>
+On the U.S. side, Treasury Secretary Bessent was reported as saying the extension runs to January 10, 2027.<br/>
+However, **as of November 1, 2026, this book has not confirmed any Ministry of Commerce announcement that rewrites the suspension deadline.**
+
+The White House fact sheet published on September 25 writes the following about rare earths.<br/>
+The United States and China continue to work on U.S. concerns regarding supply chain shortages related to rare earths and other critical minerals, with the goal of **ensuring shipment levels return to appropriate levels.**
+
+This chapter read China operating quantity, scope, timing, and counterparties one by one.<br/>
+What moved in the autumn of 2026 was **the deadline.**<br/>
+And that deadline moved not in an announcement but in a summit outcome document and a minister's remarks.<br/>
+Which measures legally apply after November 10 — this book does not judge that until an announcement is issued.
+
 ## What Is Decided Upstream Becomes Invisible Downstream
 
 Rare earths may not look like a story about AI.<br/>
@@ -346,6 +369,17 @@ The next chapter reads instruments that placed a ceiling not on quantity but **o
 
 1. U.S. Geological Survey, "Mineral Commodity Summaries 2026: Rare Earths" (world production, country breakdown, footnote 14 on China's figure, and the 2025 export-control chronology)<br/>
    <https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-rare-earths.pdf>
+
+(Added on November 1, 2026)
+
+2. Xinhua (Ministry of Commerce regular press conference, remarks by Spokesperson He Yadong, April 9, 2026; measures announced October 9, 2025 suspended until November 10, 2026)<br/>
+   <https://www.news.cn/fortune/20260409/4dd5e2914dd34dd6ad48867d56b49f8c/c.html>
+3. Ministry of Foreign Affairs of the People's Republic of China, "中美达成八点成果共识" (September 26, 2026)<br/>
+   <https://www.mfa.gov.cn/zyxw/202609/t20260926_12031616.shtml>
+4. The White House, "Fact Sheet: President Donald J. Trump Advances a Fair and Reciprocal Relationship with China While Hosting Historic State Visit" (September 25, 2026)<br/>
+   <https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-advances-a-fair-and-reciprocal-relationship-with-china-while-hosting-historic-state-visit/>
+5. Bloomberg Government, "Bessent Says US, China Extend Their Trade Truce to Jan. 10" (September 23, 2026; press report)<br/>
+   <https://news.bgov.com/international-trade/bessent-says-us-china-agreed-to-extend-trade-truce-to-jan-10>
 
 <br/>
 
@@ -432,6 +466,28 @@ In addition, eight countries are enumerated as subject to remote end-user declar
 A shift in review policy and the maintenance of presumption of denial coexist within the same rule.<br/>
 **What moved was the performance classification of products, not the classification of covered parties.**
 
+(Added on November 1, 2026)
+
+## The Licenses Were Granted. But the Receiving Side Wrote Terms, Too
+
+Under this rule, how many chips actually went to China?<br/>
+The quarterly report NVIDIA filed with the U.S. Securities and Exchange Commission on August 26, 2026 (Form 10-Q, for the quarter ended July 26, 2026) contains the party's own account.
+
+* The U.S. government granted licenses that would allow NVIDIA to ship small amounts of H200 products to specific China-based customers.
+* But those sales were **restricted by the PRC government**, and NVIDIA has been unable to sell all the products for which it holds licenses.
+* As demand for H200 diminished, NVIDIA incurred **a $0.4 billion charge** in the first half of fiscal year 2027 for excess inventory and purchase obligations.
+* Shipments since then have been **a fraction** of those allowed, accounting for **less than 1%** of Data Center revenue in the most recent quarter.
+* The licenses require the H200s to go through **an inspection process in the United States** before shipment. As a result, H200s shipped under the program are subject to **a 25% tariff upon importation into the United States.**
+
+The 50% ceiling read in this chapter is a ceiling on how much may go to China.<br/>
+But a ceiling does not decide how much actually flows.<br/>
+**Against the amount the United States wrote as "this much may go," China layered the term "it may not be bought."** <br/>
+NVIDIA itself discloses this.
+
+And one more thing.<br/>
+Before going to China, the chips enter the United States once, for inspection. At that entry, a tariff is levied.<br/>
+**A condition on export is generating a tariff on import.**
+
 ## What Is Happening on the Countable Side
 
 What the instrument delimits is compute performance and memory bandwidth.<br/>
@@ -457,6 +513,11 @@ The object of the controls was not the chip alone.
    <https://www.govinfo.gov/content/pkg/FR-2026-01-15/html/2026-00789.htm>
 2. Stanford University Human-Centered Artificial Intelligence (HAI), "2026 AI Index Report, Chapter 1: Research and Development" (AI data-center power capacity 29.6GW; country breakdown of data-center counts, compiled from Cloudscene for counts and the IEA for power)<br/>
    <https://hai.stanford.edu/ai-index/2026-ai-index-report/research-and-development>
+
+(Added on November 1, 2026)
+
+3. NVIDIA Corporation, "Form 10-Q, for the quarterly period ended July 26, 2026" (filed August 26, 2026; H200 licenses for China, restriction by the PRC government, $0.4 billion charge, less than 1% of Data Center revenue, inspection in the United States and 25% import tariff)<br/>
+   <https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/>
 
 <br/>
 
@@ -571,6 +632,28 @@ What this chapter has read is **the same unreachability, written by a state as a
 > Have frontier-grade open-weight models actually been opened?<br/>
 > <https://github.com/Leading-AI-IO/frontier-grade-open-weights>
 
+(Added on November 1, 2026)
+
+## China, Too, Has Begun Writing Terms on AI Technology Exports
+
+On October 16, 2026, China's Ministry of Commerce and Ministry of Science and Technology published "商务部 科技部公告2026年第48号" (MOFCOM-MOST Announcement No. 48 of 2026).<br/>
+It is a call for comments on a draft revision of the 《中国禁止出口限制出口技术目录》 (Catalogue of Technologies Prohibited and Restricted from Export).<br/>
+It covers **40 technologies in three fields — artificial intelligence, biomedicine, and photovoltaics — of which 23 are artificial intelligence.**<br/>
+Comments are accepted until November 15.<br/>
+Until the catalogue is formally revised and implemented, exporting the covered technologies requires **registration** on the Ministry of Commerce platform, effective from the date of the announcement.
+
+The same announcement contains one more sentence.
+
+> 对已通过开源、发表学术论文等方式进入公共领域的技术，不纳入管理范围。<br/>
+> (Technologies that have already entered the public domain through open source, publication of academic papers, or similar means are not included in the scope of control.)
+
+The U.S. clauses read in this chapter prohibited the transfer of trained model weights and the provision of access to trained algorithms.<br/>
+China's draft writes terms on the export of AI technology while **placing what has been made public outside the scope of control.**
+
+This book does not compare the two on a single scale, because their definitions of "technology" differ.<br/>
+The specific criteria for the 23 AI items have been reported, but since this book has not reached the text of the draft revision, it does not record them.<br/>
+What can be confirmed goes only this far: **the United States is no longer the only side writing terms on the products of AI.**
+
 ## To Which Layer Have the Terms Been Written?
 
 A ceiling was drawn on physical performance, supply volume was bound as a ratio, the measuring party was designated, the transfer of products was prohibited, and even the provision of connection was prohibited.
@@ -589,6 +672,11 @@ What appears there is not opposition but **a difference in what each institution
    <https://hai.stanford.edu/ai-index/2026-ai-index-report/research-and-development>
 3. Satoshi Yamauchi, "Frontier-Grade Open Weights," Leading.AI (2026)<br/>
    <https://github.com/Leading-AI-IO/frontier-grade-open-weights>
+
+(Added on November 1, 2026)
+
+4. Xinhua, "商务部 科技部公告2026年第48号" (October 16, 2026; 40 items — 23 AI, 5 biomedicine, 12 photovoltaics; comments until November 15; interim export registration; exclusion of technologies in the public domain)<br/>
+   <https://www.news.cn/20261016/c15d168f570a48838178ca74e12ca9e7/c.html>
 
 <br/>
 
@@ -785,6 +873,16 @@ Australia / Finland / India / Israel / Japan / Norway / Qatar / South Korea / Si
 
 Taiwan has expressed support for the principles through a separate joint statement.
 
+(Corrected on November 1, 2026)
+
+The first edition of this book (August 21, 2026) gave the number of signatures as 24.<br/>
+But on July 31, 2026 — before the first edition was published — **Italy had become the 25th signatory.** The State Department's release reads, "Italy is the 25th Pax Silica Declaration signatory."
+
+(Added on November 1, 2026)
+
+On October 23, 2026, **Paraguay became the 26th signatory.** Foreign Minister Ramírez signed on behalf of Paraguay at the State Department.<br/>
+As of November 1, 2026, the number of signatures is **26.**
+
 The names are published. The count is fixed.<br/>
 **It can be treated as a set.**
 
@@ -805,6 +903,13 @@ It is to begin with a pilot involving Panama's port and customs authorities.
 
 **The signatures do not stop at declaration; they connect to a system of logistical control.**
 
+(Added on November 1, 2026)
+
+It has been reported that 19 more countries endorsed the AI Opportunity Statement during the UN General Assembly High-Level Week in September 2026, bringing the total to 54.<br/>
+The new endorsers include Viet Nam and Georgia.<br/>
+These two countries appear by name in a Chinese Ministry of Foreign Affairs release as having signed, on July 31, the founding agreement of the Chinese-side organization described below.<br/>
+However, this book has not reached a State Department primary source listing the 19 countries. **It records this as reporting only.**
+
 ## The Chinese Side Has No Roster
 
 The framework led by China is the **"Global AI Governance Action Plan."**<br/>
@@ -815,6 +920,25 @@ But this is not an organization holding a roster of member states.<br/>
 
 Countries expressing support have been reported. But there is no mechanism by which one signs and one's name is published.<br/>
 What constitutes participation. From when. What happens on withdrawal. No mechanism defines these.
+
+(Corrected on November 1, 2026)
+
+The first edition of this chapter wrote that the Chinese-side framework has no roster.<br/>
+**This was already inconsistent with the facts on August 21, 2026, when the first edition was published.**
+
+On July 16, 2026, a signing ceremony for the Agreement on the Establishment of the World Artificial Intelligence Cooperation Organization (世界人工智能合作组织) was held in Shanghai.<br/>
+According to China's Ministry of Foreign Affairs, **representatives of 29 countries signed the agreement, with these countries becoming founding members of the Organization.**<br/>
+The Ministry describes it as "an independent intergovernmental international organization," headquartered in Shanghai.<br/>
+Then, on July 30 and 31, eight more countries signed in Beijing: Dominica, Brunei, Togo, Iran, Sudan, Viet Nam, Georgia, and Tanzania (Chinese Ministry of Foreign Affairs).
+
+A mechanism by which participation is fixed by signature and names are recorded had been created on the Chinese side as well.<br/>
+The Global AI Governance Action Plan on which the first edition relied is still an action plan without a roster.<br/>
+But outside it, **an organization with a roster had been created.** This book overlooked it.
+
+The way the roster is published, however, is not the same as on the U.S. side.<br/>
+Of the 29 countries, the Ministry's July 16 release names only five: **Kazakhstan, Laos, Pakistan, Russia, and Indonesia.**<br/>
+This book has not reached a Chinese government primary source listing all 29.<br/>
+Foreign Minister Wang Yi was reported to have written in August that 38 countries had become founding members, but this book has not reached that original text either.
 
 ## Which Is Why the Question Has No Answer
 
@@ -829,6 +953,17 @@ It is not that the inquiry was insufficient. On one side, no boundary has been d
 Only one case can be confirmed in primary sources.<br/>
 **Kazakhstan** appears by name on the State Department's published list as a Pax Silica signatory — a participant from Central Asia.<br/>
 There are reports that it is also engaged with the Chinese framework, but **so long as the Chinese side has no roster, that cannot be established from primary sources.**
+
+(Corrected on November 1, 2026)
+
+This conclusion, too, is revised.<br/>
+Since both sides have rosters, the overlap can be counted, at least in part.<br/>
+**Kazakhstan** appears by name on the State Department's published list as a Pax Silica signatory (the second summit, June 2026), and in the Chinese Ministry of Foreign Affairs' release as a signatory of the World Artificial Intelligence Cooperation Organization (July 16, 2026).<br/>
+Its dual participation, which the first edition said "cannot be established from primary sources," **has now been established from primary sources on both sides.**
+
+On the other hand, the total size of the overlap still cannot be computed.<br/>
+The names of all 29 countries on the Chinese side have not been published in primary sources.<br/>
+**From a question with no answer, to a question with only part of its answer published.** What has changed is the shape of the question.
 
 ```mermaid
 graph TD
@@ -884,6 +1019,12 @@ Having no roster buys breadth of participation at the cost of an ambiguous bound
 
 **The choice of form is itself the strategy.**
 
+(Corrected on November 1, 2026)
+
+"The other chose the form of an action plan," in the paragraph above, was not accurate.<br/>
+China holds **both** an action plan without a roster and an organization with one.<br/>
+If the choice of form is the strategy, what China chose is **the combined use of a form that widens participation and a form that draws a boundary.**
+
 The descent so far has run through upstream, compute, products, data, and alliances.<br/>
 In every layer, someone was writing the terms.
 
@@ -903,6 +1044,21 @@ Finally, look at the layer where they cannot be written.
 
 5. Ministry of Foreign Affairs of the People's Republic of China, "Foreign Ministry Spokesperson Guo Jiakun’s Regular Press Conference on September 14, 2026" (September 14, 2026; BRICS AI open source community, BRICS digital ecosystem cloud platform)<br/>
    <https://www.fmprc.gov.cn/eng/xw/fyrbt/202609/t20260914_12021997.html>
+
+(Corrected and added on November 1, 2026)
+
+6. U.S. Department of State, "U.S. Welcomes Italy Into Pax Silica Initiative" (July 31, 2026; Italy as the 25th signatory)<br/>
+   <https://www.state.gov/releases/office-of-the-spokesman/2026/07/us-welcomes-italy-into-pax-silica-initiative/>
+7. U.S. Department of State, "United States Welcomes Paraguay as Newest Pax Silica Signatory" (October 23, 2026; Paraguay as the 26th signatory)<br/>
+   <https://www.state.gov/releases/office-of-the-spokesman/2026/10/united-states-welcomes-paraguay-as-newest-pax-silica-signatory>
+8. Ministry of Foreign Affairs of the People's Republic of China, "Signing Ceremony of the Agreement on the Establishment of the World Artificial Intelligence Cooperation Organization Held in Shanghai" (July 16, 2026; 29 signatories as founding members, headquartered in Shanghai; only five countries named — Kazakhstan, Laos, Pakistan, Russia, Indonesia)<br/>
+   <https://www.fmprc.gov.cn/eng/wjbzhd/202607/t20260717_11984747.html>
+9. Ministry of Foreign Affairs of the People's Republic of China, "Assistant Foreign Minister Liu Bin Has a Group Meeting with Foreign Representatives Signing the Agreement on the Establishment of the World Artificial Intelligence Cooperation Organization" (July 31, 2026; Dominica on July 30; Brunei, Togo, Iran, Sudan, Viet Nam, Georgia, Tanzania on July 31)<br/>
+   <https://www.fmprc.gov.cn/eng/xw/wjbxw/202608/t20260804_11998300.html>
+10. China Daily Hong Kong (report on Foreign Minister Wang Yi's article; 38 founding members. Original text not reached)<br/>
+   <https://www.chinadailyhk.com/article/637838>
+11. Morocco World News, "Morocco joins US-led AI Opportunity partnership amid Washington-Beijing tech rivalry" (October 2026; 19 additional endorsers of the AI Opportunity Statement, 54 in total. State Department primary source not reached)<br/>
+   <https://www.moroccoworldnews.com/2026/10/340853/morocco-joins-us-led-ai-opportunity-partnership-amid-washington-beijing-tech-rivalry/>
 
 <br/>
 
@@ -1021,6 +1177,19 @@ This point bears on the premises of the instruments this book has read.<br/>
 The classification "a company headquartered in a D:5 group country" functions because parties can be divided by a legal form — the location of a head office.<br/>
 But that form does not necessarily coincide with actual relationships of control.
 
+(Added on November 1, 2026)
+
+## Terms Are Written at the Entrance
+
+On September 18, 2026, the White House published an executive order and a proclamation on the H-1B visa program.<br/>
+The proclamation renews the **$100,000 fee** requirement for certain H-1B visa applications, a fee first introduced in September 2025.<br/>
+According to the fact sheet issued the same day, H-1B registrations for fiscal year 2027 **dropped by almost 40%,** and registrations filed by the largest IT outsourcing firms **were reduced by 92%.**
+
+The United States writes terms in the layer of people, too.<br/>
+But they are **terms imposed on those who come in.**<br/>
+The decline in inflows seen in this chapter (down 89% from 2017, down 80% in the past year) is a tally through 2025, and this book does not judge any causal link with this fee.<br/>
+What instruments can write extends only to the conditions at the entrance. Which country AI researchers choose still lies outside the instruments.
+
 ## What the Last Layer Shows
 
 In the competition to write the terms, two things could not be written.
@@ -1040,6 +1209,11 @@ But **what can be controlled and what decides the outcome are not necessarily th
    <https://hai.stanford.edu/ai-index/2026-ai-index-report/research-and-development>
 2. Kot, C.H.B., "Dual-Use Security Dilemma and the U.S.-China AI Technology Race," MPhil Thesis, University of Oxford (2025; awarded the Sara Norton Prize)<br/>
    <https://ora.ox.ac.uk/>
+
+(Added on November 1, 2026)
+
+3. The White House, "Fact Sheet: President Donald J. Trump Further Enhances Program Integrity and Interagency Coordination in the H-1B Visa Program" (September 18, 2026; renewal of the $100,000 fee requirement, FY2027 registrations down almost 40%, registrations by the largest IT outsourcing firms down 92%)<br/>
+   <https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-further-enhances-program-integrity-and-interagency-coordination-in-the-h-1b-visa-program/>
 
 <br/>
 
@@ -1061,6 +1235,10 @@ What was confirmed in each layer, set out on a single sheet.
 | **Data** | China's State Council / U.S. OMB | Separation of three rights (dilute ownership, emphasize the right of use) / twenty Actions for federal agency data governance | Twenty Data Articles / Federal Data Strategy |
 | **Alliances** | U.S. Department of State / China's Ministry of Foreign Affairs | A roster of 24 signatures and a control system / an action plan with no roster | Pax Silica / Global AI Governance Action Plan |
 | **People** | **None** | Cannot be written into instruments | Stanford HAI / Kot (2025) |
+
+(Corrected on November 1, 2026)
+
+In the "Alliances" row of the table above, the Chinese-side entry "an action plan with no roster" overlooked the World Artificial Intelligence Cooperation Organization, whose founding agreement was signed on July 16, 2026 (29 founding members, headquartered in Shanghai). As of November 1, 2026, Pax Silica has 26 signatures (see the corrections to Chapter 6).
 
 Six layers have a party writing the terms.<br/>
 The last one does not.
@@ -1101,6 +1279,45 @@ Yet their content, too, was a statement of the terms under which the other side 
    <https://darioamodei.com/post/we-must-pace-the-frontier>
 2. Ministry of Foreign Affairs of the People's Republic of China, "Foreign Ministry Spokesperson Guo Jiakun’s Regular Press Conference on September 14, 2026" (September 14, 2026)<br/>
    <https://www.fmprc.gov.cn/eng/xw/fyrbt/202609/t20260914_12021997.html>
+
+(Added on November 1, 2026)
+
+## One Dialogue, Two Names
+
+On September 24, 2026, President Xi Jinping held talks with President Trump at the White House.<br/>
+The two governments' releases record the same agreement on AI. But the names differ.
+
+The White House fact sheet published on September 25 writes the following.
+
+* The two leaders agreed to use the term "**super intelligence**" rather than "artificial intelligence" to describe the applicable emerging technologies.
+* The two countries established the "**U.S.-China Super Intelligence (SI) Dialogue.**" The next exchange will occur by November 2026.
+* The two countries agreed to establish a bilateral communication channel for SI incidents.
+
+The list published by China's Ministry of Foreign Affairs on September 26, "中美达成八点成果共识," writes the following.
+
+* The two sides agreed to establish the "**中美人工智能对话**" (China-U.S. Artificial Intelligence Dialogue) to exchange views on the risks and benefits of artificial intelligence. The next dialogue will be held in November this year.
+* The two sides agreed to establish a communication channel for artificial intelligence incidents.
+
+On September 29, the United States signed Executive Order 14434, "Inaugurating the Era of Super Intelligence."<br/>
+It directs agencies, to the maximum extent permitted by law, to use "Super Intelligence" and "SI" in place of "Artificial Intelligence" and "AI."<br/>
+China's releases continue to write "人工智能" (artificial intelligence) after the talks.
+
+The Introduction and Chapter 1 showed the same indicator reversing its ranking depending on how it is counted.<br/>
+What is happening here comes before that.<br/>
+**The two countries are writing, separately, the very name of what they are competing over.** <br/>
+The U.S. release says the two leaders agreed to use the term; the Chinese release does not use it.<br/>
+This book does not judge which account accurately represents the content of the agreement.
+
+### References (added on November 1, 2026)
+
+1. The White House, "Fact Sheet: President Donald J. Trump Advances a Fair and Reciprocal Relationship with China While Hosting Historic State Visit" (September 25, 2026)<br/>
+   <https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-advances-a-fair-and-reciprocal-relationship-with-china-while-hosting-historic-state-visit/>
+2. Ministry of Foreign Affairs of the People's Republic of China, "中美达成八点成果共识" (September 26, 2026)<br/>
+   <https://www.mfa.gov.cn/zyxw/202609/t20260926_12031616.shtml>
+3. Ministry of Foreign Affairs of the People's Republic of China, "President Xi Jinping Holds Talks with U.S. President Donald J. Trump" (September 25, 2026)<br/>
+   <https://www.fmprc.gov.cn/eng/xw/zyxw/202609/t20260925_12031181.html>
+4. Executive Order 14434, "Inaugurating the Era of Super Intelligence," Federal Register Vol.91 No.190, pp.63129-63130 (signed September 29, 2026; published October 2)<br/>
+   <https://www.govinfo.gov/content/pkg/FR-2026-10-02/html/2026-20321.htm>
 
 ## Three Anticipated Objections
 
@@ -1179,6 +1396,13 @@ Rules will be amended, controls suspended, signatories added, statistics rewritt
 (Added on September 16, 2026)
 
 On September 16, 2026, additions reflecting that month's developments were made to Chapter 6 and the Final Chapter.
+
+(Added on November 1, 2026)
+
+On November 1, 2026, additions reflecting developments since August of that year were made to Chapters 2, 3, 4, 6, and 7 and to the Final Chapter.<br/>
+At the same time, statements in Chapter 6 and the Final Chapter were corrected.<br/>
+The first edition wrote that the Chinese-side framework had no roster. But before the first edition was published, an organization with a roster had already been created.<br/>
+**Part of what this book said could not be counted, could be counted.** This book records that miss as an edition.
 
 But something will not be updated.<br/>
 **The disposition to confirm, in documents, who is writing the terms.**

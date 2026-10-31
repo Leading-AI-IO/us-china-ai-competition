@@ -328,6 +328,29 @@ graph TD
 だがこの層で起きていることは、数え方の問題ではない。<br/>
 **世界の69%を占める数字が行政の割当であり、その割当を出す対象と時期が個別に操作されている**という、文書に記録された事実である。
 
+（2026年11月1日追記）
+
+## 停止の期限も、公告の外で動いた
+
+2025年11月に1年間停止された10月追加分は、2026年11月10日に停止の期限を迎える。<br/>
+中国商務部の何亜東報道官は、2026年4月9日の定例会見で、この期限をあらためて示している。
+
+> 根据中美吉隆坡经贸磋商共识，中方2025年10月9日公布的相关出口管制等措施，暂停实施至2026年11月10日。<br/>
+> （米中のクアラルンプール経済貿易協議の合意に基づき、中国が2025年10月9日に公布した関連の輸出管理等の措置は、2026年11月10日まで実施を停止する）
+
+2026年9月24日、ワシントンで米中首脳会談が開かれた。<br/>
+中国外交部が9月26日に公表した「中美达成八点成果共识」（米中が8項目の成果で合意）には、「延期吉隆坡经贸磋商成果」（クアラルンプール経済貿易協議の成果の延期）が含まれている。<br/>
+米国側では、ベッセント財務長官が、延長の期限を2027年1月10日と述べたと報じられている。<br/>
+ただし、**停止の期限を書き換える商務部の公告を、本書は2026年11月1日時点で確認できていない。**
+
+ホワイトハウスが9月25日に公表したファクトシートは、レアアースについて次のように書いている。<br/>
+米中は、レアアースなど重要鉱物の供給不足に関する米国の懸念に引き続き取り組み、**出荷水準を適切な水準に戻すこと**を目指す。
+
+本章は、中国が量・対象・時期・相手を個別に操作していることを読んだ。<br/>
+2026年の秋に動いたのは、**期限**である。<br/>
+そしてその期限は、公告ではなく、首脳会談の成果文書と閣僚の発言の中で動いた。<br/>
+11月10日以降に、どの措置が法的に効いているのか。本書は、公告が出るまでこれを判定しない。
+
 ## 上流で決まったことは、下流で見えなくなる
 
 レアアースはAIの話に見えないかもしれない。<br/>
@@ -346,6 +369,17 @@ graph TD
 
 1. U.S. Geological Survey「Mineral Commodity Summaries 2026: Rare Earths」（世界生産量・国別内訳・中国の数値に関する脚注14／2025年の輸出規制の時系列を含む）<br/>
    <https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-rare-earths.pdf>
+
+（2026年11月1日追記）
+
+2. 新華社（中国商務部の定例会見・何亜東報道官の発言、2026年4月9日／2025年10月9日公布の措置は2026年11月10日まで停止）<br/>
+   <https://www.news.cn/fortune/20260409/4dd5e2914dd34dd6ad48867d56b49f8c/c.html>
+3. 中华人民共和国外交部「中美达成八点成果共识」（2026年9月26日）<br/>
+   <https://www.mfa.gov.cn/zyxw/202609/t20260926_12031616.shtml>
+4. The White House「Fact Sheet: President Donald J. Trump Advances a Fair and Reciprocal Relationship with China While Hosting Historic State Visit」（2026年9月25日）<br/>
+   <https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-advances-a-fair-and-reciprocal-relationship-with-china-while-hosting-historic-state-visit/>
+5. Bloomberg Government「Bessent Says US, China Extend Their Trade Truce to Jan. 10」（2026年9月23日／報道）<br/>
+   <https://news.bgov.com/international-trade/bessent-says-us-china-agreed-to-extend-trade-truce-to-jan-10>
 
 <br/>
 
@@ -432,6 +466,28 @@ case-by-case への転換は、すべてに適用されたわけではない。
 規制方針の転換と、原則不許可の維持が、同じ規則の中に同居している。<br/>
 **動いたのは製品の性能区分であって、対象主体の区分ではない。**
 
+（2026年11月1日追記）
+
+## 許可は出た。だが、受け取る側も条件を書いた
+
+この規則のもとで、実際にどれだけのチップが中国へ渡ったのか。<br/>
+NVIDIAが2026年8月26日に米国証券取引委員会へ提出した四半期報告書（Form 10-Q、2026年7月26日に終わる四半期）に、当事者自身の記述がある。
+
+* 米国政府は、少量のH200を、特定の中国の顧客へ出荷できるライセンスを付与した。
+* だがその販売は**中国政府によって制限され**、ライセンスを得た製品のすべてを売ることはできていない。
+* H200の需要が減ったため、2027会計年度の上半期に、余剰在庫と購入義務に関する**4億ドルの費用**を計上した。
+* その後の出荷は、許可された量の**ごく一部**であり、直近の四半期のデータセンター売上の**1%未満**である。
+* ライセンスは、出荷の前に**米国内で検査**を受けることを求めている。その結果、このプログラムで出荷されるH200には、**米国への輸入時に25%の関税**がかかる。
+
+本章が読んだ50%の上限は、中国へ出してよい量の上限である。<br/>
+だが上限は、実際に流れる量を決めない。<br/>
+**米国が「ここまで出してよい」と書いた量に対して、中国は「買わせない」という条件を重ねた。** <br/>
+NVIDIA自身が、そう開示している。
+
+そしてもう一つ。<br/>
+チップは中国へ出る前に、検査のために一度、米国に入る。その入口で関税がかかる。<br/>
+**輸出の条件が、輸入の関税を生んでいる。**
+
 ## 数えられる側で起きていること
 
 条文が区切っているのは、演算性能とメモリ帯域である。<br/>
@@ -457,6 +513,11 @@ TPP 21,000、DRAM帯域6,500 GB/s、米国内出荷比50%——これらは文�
    <https://www.govinfo.gov/content/pkg/FR-2026-01-15/html/2026-00789.htm>
 2. Stanford University Human-Centered Artificial Intelligence (HAI)「2026 AI Index Report, Chapter 1: Research and Development」（AIデータセンター電力容量29.6GW／データセンター数の国別内訳。データセンター数はCloudscene、電力はIEAを出典として集計）<br/>
    <https://hai.stanford.edu/ai-index/2026-ai-index-report/research-and-development>
+
+（2026年11月1日追記）
+
+3. NVIDIA Corporation「Form 10-Q, for the quarterly period ended July 26, 2026」（2026年8月26日提出／H200の対中ライセンス、中国政府による販売制限、4億ドルの費用、データセンター売上の1%未満、米国内での検査と25%の輸入関税）<br/>
+   <https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/>
 
 <br/>
 
@@ -571,6 +632,28 @@ OpenAI・Anthropic・Googleを含む資源集約型モデルは、**学習コー
 > フロンティア級のオープンウェイトモデルは、開かれたのか<br/>
 > <https://github.com/Leading-AI-IO/frontier-grade-open-weights>
 
+（2026年11月1日追記）
+
+## 中国も、AI技術の輸出に条件を書きはじめた
+
+2026年10月16日、中国商務部と科学技術部は「商务部 科技部公告2026年第48号」を公表した。<br/>
+《中国禁止出口限制出口技术目录》（中国の輸出禁止・輸出制限技術目録）の改訂案について、意見を募る公告である。<br/>
+対象は**人工知能・生物医薬・太陽光発電の3分野、40項目**の技術で、そのうち**23項目が人工知能**である。<br/>
+意見の募集は11月15日まで。<br/>
+そして目録が正式に改訂・施行されるまでの間、対象の技術を輸出するには、商務部のプラットフォームでの**登録**が求められる。公告の日から効力を持つ。
+
+同じ公告には、もう一つの一文がある。
+
+> 对已通过开源、发表学术论文等方式进入公共领域的技术，不纳入管理范围。<br/>
+> （オープンソース、学術論文の発表などの方法によって、すでに公共の領域に入った技術は、管理の範囲に含めない）
+
+本章で読んだ米国の条項は、訓練されたモデルの重みの移転と、学習済みアルゴリズムへのアクセスの提供を禁じた。<br/>
+中国の改訂案は、AI技術の輸出に条件を書きながら、**公開されたものを管理の外に置いた**。
+
+本書は、両者を同じ尺度で比べない。対象とする「技術」の定義が違うからである。<br/>
+AIの23項目の具体的な基準は報じられているが、改訂案の本文に本書は到達できていないため、記載しない。<br/>
+確認できるのは、**AIの成果物に条件を書いているのが、米国の側だけではなくなった**という事実までである。
+
 ## 条件は、どの層まで書かれているのか
 
 物理性能に上限が引かれ、供給量が比率で縛られ、測定主体が指定され、成果物の移転が禁じられ、接続の提供まで禁じられた。
@@ -589,6 +672,11 @@ OpenAI・Anthropic・Googleを含む資源集約型モデルは、**学習コー
    <https://hai.stanford.edu/ai-index/2026-ai-index-report/research-and-development>
 3. Satoshi Yamauchi「Frontier-Grade Open Weights」Leading.AI（2026年）<br/>
    <https://github.com/Leading-AI-IO/frontier-grade-open-weights>
+
+（2026年11月1日追記）
+
+4. 新華社「商务部 科技部公告2026年第48号」（2026年10月16日／人工知能23項目・生物医薬5項目・太陽光発電12項目の計40項目、意見募集は11月15日まで、改訂までの間の輸出登録、公共の領域に入った技術の除外）<br/>
+   <https://www.news.cn/20261016/c15d168f570a48838178ca74e12ca9e7/c.html>
 
 <br/>
 
@@ -786,6 +874,16 @@ Pax Silicaの署名は**24**。<br/>
 
 台湾は、別の共同声明で原則への支持を表明している。
 
+（2026年11月1日訂正）
+
+本書の初版（2026年8月21日）は、署名を24と書いた。<br/>
+だが初版の公開より前の2026年7月31日に、**イタリアが25番目の署名国**になっていた。国務省の発表は「Italy is the 25th Pax Silica Declaration signatory.」と書いている。
+
+（2026年11月1日追記）
+
+2026年10月23日、**パラグアイが26番目の署名国**になった。国務省で、パラグアイのラミレス外相が署名した。<br/>
+2026年11月1日時点の署名は、**26**である。
+
 名前が公表されている。数が確定している。<br/>
 **集合として扱える。**
 
@@ -806,6 +904,13 @@ AIサプライチェーンの資格証明と出所を追跡するプラットフ
 
 **署名は宣言に留まらず、物流の統制システムへ接続されている。**
 
+（2026年11月1日追記）
+
+AI Opportunity Statement には、2026年9月の国連総会ハイレベルウィークに19か国が新たに加わり、計54になったと報じられている。<br/>
+新たに加わった国には、ベトナムとジョージアが含まれる。<br/>
+この2か国は、後で述べる中国側の機構の設立協定に、7月31日に署名した国として、中国外交部の発表に名前がある。<br/>
+ただし、19か国の名を載せた国務省の一次資料に、本書は到達できていない。**報道として記録するだけにする。**
+
 ## 中国側には、名簿がない
 
 中国が主導する枠組みとして《**人工智能全球治理行动计划**》（AI世界ガバナンス行動計画）がある。<br/>
@@ -816,6 +921,25 @@ AIサプライチェーンの資格証明と出所を追跡するプラットフ
 
 賛同を表明した国は報じられている。だが、署名して名前が公表される仕組みそのものがない。<br/>
 何をもって参加とするのか。いつからなのか。抜けるときはどうなるのか。それを定める仕組みがない。
+
+（2026年11月1日訂正）
+
+本章の初版は、中国側の枠組みには名簿がないと書いた。<br/>
+**これは、初版を公開した2026年8月21日の時点で、すでに事実と食い違っていた。**
+
+2026年7月16日、上海で「世界人工智能合作组织」（World Artificial Intelligence Cooperation Organization／世界人工知能協力機構）の設立協定の署名式が開かれた。<br/>
+中国外交部によれば、**29か国の代表が協定に署名し、これらの国が機構の創設メンバーになった**。<br/>
+外交部は、この機構を「独立した政府間国際機関」と呼び、本部を上海に置くとしている。<br/>
+続いて7月30日と31日には、北京で、ドミニカ国、ブルネイ、トーゴ、イラン、スーダン、ベトナム、ジョージア、タンザニアの8か国が署名した（中国外交部）。
+
+署名という形式で参加が確定し、名前が記録される仕組みが、中国側にもできていた。<br/>
+初版が依拠した《人工智能全球治理行动计划》は、今も名簿を持たない行動計画である。<br/>
+だがその外側に、**名簿を持つ組織が作られていた**。本書は、それを見落としていた。
+
+ただし、名簿の公表のされ方は、米国側と同じではない。<br/>
+外交部の7月16日の発表が国名を挙げているのは、29か国のうち**カザフスタン、ラオス、パキスタン、ロシア、インドネシアの5か国**だけである。<br/>
+29か国すべての名を載せた中国政府の一次資料に、本書は到達できていない。<br/>
+王毅外相が8月に創設メンバーを38か国と書いたと報じられているが、その原文にも到達できていない。
 
 ## だから、その問いには答えがない
 
@@ -830,6 +954,17 @@ AIサプライチェーンの資格証明と出所を追跡するプラットフ
 一次資料で確認できるのは、一つの事例だけである。<br/>
 **カザフスタン**は Pax Silica の署名国として国務省の公表リストに名前がある。中央アジアからの参加国である。<br/>
 同国が中国側の枠組みにも関与しているとの報道はあるが、**中国側に名簿がない以上、それを一次資料で確定させることはできない。**
+
+（2026年11月1日訂正）
+
+この結論も改める。<br/>
+名簿が両側にある以上、重なりは、少なくとも一部は数えられる。<br/>
+**カザフスタン**は、Pax Silica の署名国として国務省の公表リストに名前があり（2026年6月の第2回サミット）、世界人工知能協力機構の署名国として中国外交部の発表に名前がある（2026年7月16日）。<br/>
+初版が「一次資料で確定させることはできない」と書いた同国の二重参加は、**両側の一次資料で確定した**。
+
+一方で、重なりの総数は、まだ算定できない。<br/>
+中国側の29か国の名が、一次資料ですべて公表されていないからである。<br/>
+**答えが存在しない問いから、答えの一部だけが公表されている問いへ。** 変わったのは、問いの形である。
 
 ```mermaid
 graph TD
@@ -885,6 +1020,12 @@ BRICSは、加盟国が定まった枠組みである。<br/>
 
 **形式の選択が、そのまま戦略になっている。**
 
+（2026年11月1日訂正）
+
+上の段落の「他方が行動計画という形式を選んだ」は、正確ではなかった。<br/>
+中国は、名簿を持たない行動計画と、名簿を持つ組織の**両方**を持っている。<br/>
+形式の選択が戦略であるなら、中国が選んだのは、**参加の幅を広げる形式と、境界を引く形式の併用**である。
+
 ここまで、上流・計算資源・成果物・データ・陣営と降りてきた。<br/>
 すべての層で、条件は誰かが書いていた。
 
@@ -904,6 +1045,21 @@ BRICSは、加盟国が定まった枠組みである。<br/>
 
 5. Ministry of Foreign Affairs of the People's Republic of China「Foreign Ministry Spokesperson Guo Jiakun’s Regular Press Conference on September 14, 2026」（2026年9月14日／BRICS AIオープンソースコミュニティ、BRICSデジタルエコシステム・クラウドプラットフォーム）<br/>
    <https://www.fmprc.gov.cn/eng/xw/fyrbt/202609/t20260914_12021997.html>
+
+（2026年11月1日訂正・追記）
+
+6. U.S. Department of State「U.S. Welcomes Italy Into Pax Silica Initiative」（2026年7月31日／イタリアが25番目の署名国）<br/>
+   <https://www.state.gov/releases/office-of-the-spokesman/2026/07/us-welcomes-italy-into-pax-silica-initiative/>
+7. U.S. Department of State「United States Welcomes Paraguay as Newest Pax Silica Signatory」（2026年10月23日／パラグアイが26番目の署名国）<br/>
+   <https://www.state.gov/releases/office-of-the-spokesman/2026/10/united-states-welcomes-paraguay-as-newest-pax-silica-signatory>
+8. Ministry of Foreign Affairs of the People's Republic of China「Signing Ceremony of the Agreement on the Establishment of the World Artificial Intelligence Cooperation Organization Held in Shanghai」（2026年7月16日／29か国が署名し創設メンバーに、本部は上海、国名はカザフスタン・ラオス・パキスタン・ロシア・インドネシアの5か国のみ記載）<br/>
+   <https://www.fmprc.gov.cn/eng/wjbzhd/202607/t20260717_11984747.html>
+9. Ministry of Foreign Affairs of the People's Republic of China「Assistant Foreign Minister Liu Bin Has a Group Meeting with Foreign Representatives Signing the Agreement on the Establishment of the World Artificial Intelligence Cooperation Organization」（2026年7月31日／7月30日ドミニカ国、7月31日ブルネイ・トーゴ・イラン・スーダン・ベトナム・ジョージア・タンザニア）<br/>
+   <https://www.fmprc.gov.cn/eng/xw/wjbxw/202608/t20260804_11998300.html>
+10. China Daily Hong Kong（王毅外相の寄稿に関する報道／創設メンバー38か国。原文には未到達）<br/>
+   <https://www.chinadailyhk.com/article/637838>
+11. Morocco World News「Morocco joins US-led AI Opportunity partnership amid Washington-Beijing tech rivalry」（2026年10月／AI Opportunity Statement への19か国の追加、計54。国務省の一次資料には未到達）<br/>
+   <https://www.moroccoworldnews.com/2026/10/340853/morocco-joins-us-led-ai-opportunity-partnership-amid-washington-beijing-tech-rivalry/>
 
 <br/>
 
@@ -1022,6 +1178,19 @@ Kot, C.H.B. (2025)『Dual-Use Security Dilemma and the U.S.-China AI Technology 
 「D:5グループ国に本社を置く企業」という区分が機能するのは、本社の所在地という法的な形式で主体を分けられるからだ。<br/>
 だが、その形式が実際の支配関係と一致しているとは限らない。
 
+（2026年11月1日追記）
+
+## 入口には、条件が書かれている
+
+2026年9月18日、ホワイトハウスは、H-1Bビザ制度に関する大統領令と布告を公表した。<br/>
+布告は、一部のH-1B申請に課す**10万ドルの手数料**の要件を更新した。この手数料は、2025年9月に導入されたものである。<br/>
+同じ日のファクトシートによれば、2027会計年度のH-1Bの登録は**約40%減り**、最大手のITアウトソーシング企業による登録は**92%減った**。
+
+米国は、人の層にも条件を書いている。<br/>
+ただしそれは、**入ってくる人に課す条件**である。<br/>
+本章で見た流入の減少（2017年比89%減、直近1年で80%減）は2025年までの集計であり、この手数料との因果を、本書は判定しない。<br/>
+条文で書けるのは入口の条件までである。AI研究者がどの国を選ぶかは、依然として条文の外にある。
+
 ## 最後の層が示していること
 
 条件を書く競争で、書けないものが二つあった。
@@ -1041,6 +1210,11 @@ Kot, C.H.B. (2025)『Dual-Use Security Dilemma and the U.S.-China AI Technology 
    <https://hai.stanford.edu/ai-index/2026-ai-index-report/research-and-development>
 2. Kot, C.H.B.「Dual-Use Security Dilemma and the U.S.-China AI Technology Race」MPhil Thesis, University of Oxford（2025年／Sara Norton Prize受賞）<br/>
    <https://ora.ox.ac.uk/>
+
+（2026年11月1日追記）
+
+3. The White House「Fact Sheet: President Donald J. Trump Further Enhances Program Integrity and Interagency Coordination in the H-1B Visa Program」（2026年9月18日／10万ドルの手数料要件の更新、2027会計年度の登録約40%減、最大手ITアウトソーシング企業の登録92%減）<br/>
+   <https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-further-enhances-program-integrity-and-interagency-coordination-in-the-h-1b-visa-program/>
 
 <br/>
 
@@ -1062,6 +1236,10 @@ Kot, C.H.B. (2025)『Dual-Use Security Dilemma and the U.S.-China AI Technology 
 | **データ** | 中国国務院／米国OMB | 三権分置（所有権を薄め使用権を強調）／連邦行政機関のデータガバナンス20Action | 数据二十条／Federal Data Strategy |
 | **陣営** | 米国国務省／中国外交部 | 24署名の名簿と統制システム／名簿を持たない行動計画 | Pax Silica／人工智能全球治理行动计划 |
 | **人** | **不在** | 条文で書けない | Stanford HAI／Kot (2025) |
+
+（2026年11月1日訂正）
+
+上の表の「陣営」の行のうち、中国側の「名簿を持たない行動計画」は、2026年7月16日に設立協定が署名された世界人工知能協力機構（創設メンバー29か国、本部は上海）を見落としていた。Pax Silica の署名は、2026年11月1日時点で26である（第6章の訂正を参照）。
 
 六つの層には、条件を書いている主体がいる。<br/>
 最後の一つにはいない。
@@ -1102,6 +1280,45 @@ Kot, C.H.B. (2025)『Dual-Use Security Dilemma and the U.S.-China AI Technology 
    <https://darioamodei.com/post/we-must-pace-the-frontier>
 2. Ministry of Foreign Affairs of the People's Republic of China「Foreign Ministry Spokesperson Guo Jiakun’s Regular Press Conference on September 14, 2026」（2026年9月14日）<br/>
    <https://www.fmprc.gov.cn/eng/xw/fyrbt/202609/t20260914_12021997.html>
+
+（2026年11月1日追記）
+
+## 同じ対話に、二つの名前が付いた
+
+2026年9月24日、習近平国家主席はホワイトハウスでトランプ大統領と会談した。<br/>
+両国の発表は、AIについて同じ合意を記している。だが、名前が違う。
+
+ホワイトハウスが9月25日に公表したファクトシートは、次のように書いている。
+
+* 両首脳は、該当する新興技術を表す語として「artificial intelligence」ではなく「**super intelligence**」を使うことで合意した。
+* 両国は「**U.S.-China Super Intelligence (SI) Dialogue**」を設けた。次の意見交換は2026年11月までに行う。
+* 両国は、SIに関する事案のための二国間の連絡チャネルを設けることで合意した。
+
+中国外交部が9月26日に公表した「中美达成八点成果共识」は、次のように書いている。
+
+* 双方は「**中美人工智能对话**」（米中人工知能対話）を設け、人工知能に関するリスクと恩恵について意見を交わす。次回の対話は今年11月に行う。
+* 双方は、人工知能の事案のための連絡チャネルを設ける。
+
+米国は9月29日、大統領令14434号「Inaugurating the Era of Super Intelligence」に署名した。<br/>
+連邦機関に対し、法が許す最大限の範囲で、「Artificial Intelligence」「AI」に代えて「Super Intelligence」「SI」を使うよう求めている。<br/>
+中国側の発表は、会談の後も「人工智能」と書いている。
+
+序章と第1章は、同じ指標が、数え方によって順位を入れ替えることを見た。<br/>
+ここで起きているのは、その手前である。<br/>
+**何を競っているのか、その名前そのものを、両国が別々に書いている。** <br/>
+米国側の発表は「名称を使うことで合意した」と書き、中国側の発表はその名称を使っていない。<br/>
+どちらの記述が合意の内容を正確に表しているのかを、本書は判定しない。
+
+### 参考文献（2026年11月1日追記分）
+
+1. The White House「Fact Sheet: President Donald J. Trump Advances a Fair and Reciprocal Relationship with China While Hosting Historic State Visit」（2026年9月25日）<br/>
+   <https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-advances-a-fair-and-reciprocal-relationship-with-china-while-hosting-historic-state-visit/>
+2. 中华人民共和国外交部「中美达成八点成果共识」（2026年9月26日）<br/>
+   <https://www.mfa.gov.cn/zyxw/202609/t20260926_12031616.shtml>
+3. 中华人民共和国外交部「President Xi Jinping Holds Talks with U.S. President Donald J. Trump」（2026年9月25日）<br/>
+   <https://www.fmprc.gov.cn/eng/xw/zyxw/202609/t20260925_12031181.html>
+4. Executive Order 14434「Inaugurating the Era of Super Intelligence」Federal Register Vol.91 No.190, pp.63129-63130（2026年9月29日署名、10月2日掲載）<br/>
+   <https://www.govinfo.gov/content/pkg/FR-2026-10-02/html/2026-20321.htm>
 
 ## 想定される、三つの反論
 
@@ -1180,6 +1397,13 @@ HBMの主要製造は、SK hynix・Samsung（韓国）とMicron（米国）が�
 （2026年9月16日追記）
 
 2026年9月16日に、第6章と終章へ、同月の動きを追記した。
+
+（2026年11月1日追記）
+
+2026年11月1日に、第2・3・4・6・7章と終章へ、同年8月以降の動きを追記した。<br/>
+あわせて、第6章と終章の記述を訂正した。<br/>
+初版は、中国側の枠組みには名簿がないと書いた。だが、初版の公開より前に、名簿を持つ組織がすでに作られていた。<br/>
+**数えられないと書いたものの一部は、数えられた。** 本書は、その外れを版として記録する。
 
 だが、更新されないものがある。<br/>
 **条件を書いているのは誰かを、文書で確かめる態度である。**

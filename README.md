@@ -91,8 +91,8 @@
 | 版 | 日付 | 内容 |
 | --- | --- | --- |
 | [**v1.0**](https://github.com/Leading-AI-IO/us-china-ai-competition/releases/tag/v1.0) | 2026-08-21 | 初版公開 |
-| 追記 | 2026-09-16 | 第6章・終章に、同月の動きを追記 |
-| 追記・訂正 | 2026-11-01 | 第2・3・4・6・7章と終章に、8月以降の動きを追記。第6章・終章の陣営の層の記述（中国側に名簿がない／Pax Silica 24署名）を訂正 |
+| [**v1.1**](https://github.com/Leading-AI-IO/us-china-ai-competition/releases/tag/v1.1) | 2026-09-16 | 第6章・終章に、同月の動きを追記 |
+| [**v2.0**](https://github.com/Leading-AI-IO/us-china-ai-competition/releases/tag/v2.0) | 2026-11-01 | 第2・3・4・6・7章と終章に、8月以降の動きを追記。第6章・終章の陣営の層の記述（中国側に名簿がない／Pax Silica 24署名）を訂正 |
 
 各版の詳細は [Releases](https://github.com/Leading-AI-IO/us-china-ai-competition/releases) を参照。
 

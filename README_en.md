@@ -83,8 +83,8 @@ Rules will be amended, controls suspended, signatories added, and statistics rew
 | Version | Date | Contents |
 | --- | --- | --- |
 | [**v1.0**](https://github.com/Leading-AI-IO/us-china-ai-competition/releases/tag/v1.0) | 2026-08-21 | Initial release |
-| Addition | 2026-09-16 | Additions to Chapter 6 and the Final Chapter reflecting that month's developments |
-| Addition & correction | 2026-11-01 | Additions to Chapters 2, 3, 4, 6, 7 and the Final Chapter reflecting developments since August; corrections to the alliance layer in Chapter 6 and the Final Chapter (the Chinese side having no roster / 24 Pax Silica signatures) |
+| [**v1.1**](https://github.com/Leading-AI-IO/us-china-ai-competition/releases/tag/v1.1) | 2026-09-16 | Additions to Chapter 6 and the Final Chapter reflecting that month's developments |
+| [**v2.0**](https://github.com/Leading-AI-IO/us-china-ai-competition/releases/tag/v2.0) | 2026-11-01 | Additions to Chapters 2, 3, 4, 6, 7 and the Final Chapter reflecting developments since August; corrections to the alliance layer in Chapter 6 and the Final Chapter (the Chinese side having no roster / 24 Pax Silica signatures) |
 
 See [Releases](https://github.com/Leading-AI-IO/us-china-ai-competition/releases) for details on each version.
 

@@ -117,6 +117,31 @@
   the 24 signatures are not uniform in unit, since the EU signed
   alongside three of its own member states
 
+- (Corrected on November 1, 2026) The first edition's claim that the
+  Chinese side has no roster was already inconsistent with the facts at
+  publication: on July 16, 2026, 29 countries signed the agreement
+  establishing the World Artificial Intelligence Cooperation Organization
+  (headquartered in Shanghai) as founding members, and eight more signed
+  on July 30-31. China's Ministry of Foreign Affairs names only five of
+  the 29 (Kazakhstan, Laos, Pakistan, Russia, Indonesia). Kazakhstan is
+  therefore confirmed in primary sources on both sides. Pax Silica had 26
+  signatories as of November 1, 2026 (Italy 25th on July 31, Paraguay
+  26th on October 23). The question has changed from one with no answer
+  to one with only part of its answer published
+
+- (Added on November 1, 2026) Other additions: China's suspension of its
+  October 2025 rare-earth controls runs to November 10, 2026, with an
+  extension to January 10, 2027 stated after the September 24 summit but
+  no new MOFCOM announcement confirmed; NVIDIA's Form 10-Q states that
+  H200 sales licensed by the U.S. were restricted by the PRC government
+  (under 1% of Data Center revenue, a 25% U.S. import tariff tied to U.S.
+  inspection); MOFCOM-MOST Announcement No. 48 of 2026 adds 23 AI items to
+  the draft export-restricted technology catalogue while excluding
+  technologies already public through open source or publication; the
+  H-1B $100,000 fee was renewed on September 18, 2026; and the September
+  2026 summit created an AI dialogue that the U.S. names "Super
+  Intelligence (SI) Dialogue" and China names "中美人工智能对话"
+
 - The book's final layer is the one no instrument reaches: AI researchers
   and developers moving to the United States are down 89% from 2017 and
   80% in the past year, with net inflow falling from a 2022 peak of 324.6

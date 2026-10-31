@@ -4,7 +4,7 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Language](https://img.shields.io/badge/Language-Japanese%20%7C%20English-blue)](docs/)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--21-brightgreen)](https://github.com/Leading-AI-IO/us-china-ai-competition/releases)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--01-brightgreen)](https://github.com/Leading-AI-IO/us-china-ai-competition/releases)
 
 <p align="left">
   <img src="./assets/ogp_design.png" width="90%">
@@ -53,6 +53,10 @@ Yet something does not diverge even when indicators do: instruments. **This book
 
 In the data layer, the received wisdom inverts. China chose not to fix ownership at all — separating rights into three — while the United States does have a federal data strategy. The asymmetry lies not in the presence of an institution but in its object. In the alliance layer, the US-led Pax Silica maintains a roster of 24 signatories, while the Chinese framework holds no roster of member states by design. The question "how many countries belong to both camps" therefore has **no answer**, not for lack of data but because the two forms are institutionally incommensurable.
 
+(Corrected on November 1, 2026)
+
+The statement above on the alliance layer was already inconsistent with the facts when the first edition was published (August 21, 2026). On July 16, 2026, 29 countries signed the agreement establishing the China-led World Artificial Intelligence Cooperation Organization and became its founding members (headquartered in Shanghai). As of November 1, 2026, Pax Silica has 26 signatories. Kazakhstan is confirmed in primary sources on both sides as a signatory of both, so the overlap **can be counted in part.** The names of all 29 Chinese-side founding members, however, have not been published in primary sources. The question has changed from one with no answer to one with only part of its answer published.
+
 Only the final layer resists being written into terms. Inbound movement of AI researchers and developers to the United States is down 89% from 2017 and down 80% in the past year alone; net inflow has fallen from 324.6 in 2022 to 26.0 in 2025. States can move regulation and resources. They cannot move people.
 
 The central claim is one sentence. **What is being decided is not which side is stronger, but which side writes the terms the other must work under.**
@@ -79,6 +83,8 @@ Rules will be amended, controls suspended, signatories added, and statistics rew
 | Version | Date | Contents |
 | --- | --- | --- |
 | [**v1.0**](https://github.com/Leading-AI-IO/us-china-ai-competition/releases/tag/v1.0) | 2026-08-21 | Initial release |
+| Addition | 2026-09-16 | Additions to Chapter 6 and the Final Chapter reflecting that month's developments |
+| Addition & correction | 2026-11-01 | Additions to Chapters 2, 3, 4, 6, 7 and the Final Chapter reflecting developments since August; corrections to the alliance layer in Chapter 6 and the Final Chapter (the Chinese side having no roster / 24 Pax Silica signatures) |
 
 See [Releases](https://github.com/Leading-AI-IO/us-china-ai-competition/releases) for details on each version.
 

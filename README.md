@@ -5,7 +5,7 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Language](https://img.shields.io/badge/Language-Japanese%20%7C%20English-blue)](docs/)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--21-brightgreen)](https://github.com/Leading-AI-IO/us-china-ai-competition/releases)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--01-brightgreen)](https://github.com/Leading-AI-IO/us-china-ai-competition/releases)
 
 <p align="left">
   <img src="./assets/ogp_design.png" width="90%">
@@ -61,6 +61,10 @@
 
 データの層では、通説とは逆のことが起きている。中国は国家が所有権を確定させないことを選び（三権分置）、米国には国家データ戦略が存在する。非対称の正体は、制度の有無ではなく対象である。陣営の層では、米国主導のPax Silicaが24署名の名簿を持つ一方、中国側の枠組みは加盟国名簿を制度上持たない。したがって「両陣営に同時参加している国は何か国か」という問いには、形式の違いによって**答えが存在しない**。
 
+（2026年11月1日訂正）
+
+陣営の層の上の記述は、初版の公開時点（2026年8月21日）で、すでに事実と食い違っていた。2026年7月16日、中国主導の「世界人工知能協力機構」（World Artificial Intelligence Cooperation Organization）の設立協定に29か国が署名し、創設メンバーとなっている（本部は上海）。Pax Silicaの署名は、2026年11月1日時点で26である。カザフスタンは両方の署名国として両側の一次資料で確認でき、重なりは**一部だけ数えられる**。ただし中国側の29か国の名は、一次資料ですべては公表されていない。問いは「答えが存在しない」から「答えの一部だけが公表されている」へ変わった。
+
 そして最後の層だけが、条文で動かせない。米国へ移動するAI研究者・開発者は2017年比89%減、直近1年で80%減であり、純流入は2022年の324.6から2025年の26.0へ落ちている。規制も資源も国家が動かせるが、人の移動は動かせない。
 
 中心命題は一つである。**決まっているのは、どちらが強いかではない。相手が使える条件を、どちらが書くかである。**
@@ -87,6 +91,8 @@
 | 版 | 日付 | 内容 |
 | --- | --- | --- |
 | [**v1.0**](https://github.com/Leading-AI-IO/us-china-ai-competition/releases/tag/v1.0) | 2026-08-21 | 初版公開 |
+| 追記 | 2026-09-16 | 第6章・終章に、同月の動きを追記 |
+| 追記・訂正 | 2026-11-01 | 第2・3・4・6・7章と終章に、8月以降の動きを追記。第6章・終章の陣営の層の記述（中国側に名簿がない／Pax Silica 24署名）を訂正 |
 
 各版の詳細は [Releases](https://github.com/Leading-AI-IO/us-china-ai-competition/releases) を参照。
 

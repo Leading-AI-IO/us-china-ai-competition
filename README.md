@@ -5,7 +5,7 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Language](https://img.shields.io/badge/Language-Japanese%20%7C%20English-blue)](docs/)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--01-brightgreen)](https://github.com/Leading-AI-IO/us-china-ai-competition/releases)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--23-brightgreen)](https://github.com/Leading-AI-IO/us-china-ai-competition/releases)
 
 <p align="left">
   <img src="./assets/ogp_design.png" width="90%">
@@ -93,6 +93,7 @@
 | [**v1.0**](https://github.com/Leading-AI-IO/us-china-ai-competition/releases/tag/v1.0) | 2026-08-21 | 初版公開 |
 | [**v1.1**](https://github.com/Leading-AI-IO/us-china-ai-competition/releases/tag/v1.1) | 2026-09-16 | 第6章・終章に、同月の動きを追記 |
 | [**v2.0**](https://github.com/Leading-AI-IO/us-china-ai-competition/releases/tag/v2.0) | 2026-11-01 | 第2・3・4・6・7章と終章に、8月以降の動きを追記。第6章・終章の陣営の層の記述（中国側に名簿がない／Pax Silica 24署名）を訂正 |
+| [**v2.1**](https://github.com/Leading-AI-IO/us-china-ai-competition/releases/tag/v2.1) | 2026-11-23 | 第2・3・4・7章と終章に、11月の動きを追記（中国のレアアース規制と米国の関連会社規則の停止延長、NVIDIA・Megaspeedをめぐる捜査と発表、データセンター向けの新規則 §744.24、ECCN 4E091の削除とAI Diffusion Ruleの正式廃止） |
 
 各版の詳細は [Releases](https://github.com/Leading-AI-IO/us-china-ai-competition/releases) を参照。
 

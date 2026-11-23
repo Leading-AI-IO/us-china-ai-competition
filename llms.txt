@@ -142,6 +142,35 @@
   2026 summit created an AI dialogue that the U.S. names "Super
   Intelligence (SI) Dialogue" and China names "中美人工智能对话"
 
+- (Added on November 23, 2026) Further additions: MOFCOM-GAC Announcement
+  No. 58 of 2026, dated November 9, 2026, continues the suspension of the
+  October 2025 measures from November 11, 2026 to January 10, 2027, while
+  leaving the April 2025 measures untouched. On the same day, BIS extended
+  its suspension of the Affiliates Rule (90 FR 47201, which applies Entity
+  List restrictions to entities 50% or more owned by listed parties) to the
+  same date (91 FR 70789); the two suspensions had been paired in the
+  November 1, 2025 White House fact sheet. The Megaspeed case (a Singapore
+  company) is recorded from the November 16, 2026 Commerce-DOJ joint
+  statement and the November 12, 2026 release of Singapore's Ministry of
+  Home Affairs, which states that Singapore does not enforce unilateral
+  export controls imposed by other countries; route details and amounts
+  reported by the press are not carried. The BIS interim final rule
+  effective November 19, 2026 (FR Doc 2026-23529) creates §744.24, which
+  requires a license where items are known to be destined for a data
+  center anywhere in the world that provides more than 12,000,000
+  aggregate TPP of compute to companies headquartered or ultimately
+  parented in Macau or a D:5 group country. The book states that what
+  changed is not where the line sits but the yardstick by which it is
+  drawn. The same rule places customer due-diligence obligations on
+  suppliers and data centers, requires licenses for five countries
+  (Indonesia, Malaysia, Singapore, Thailand, Brazil), removes ECCN 4E091
+  and §734.9(l), and formally rescinds the AI Diffusion Rule, while the
+  (dd) provisions on model weights and remote access remain. On NVIDIA
+  (a board investigation, Jensen Huang's resignation recorded in a Form
+  8-K that states no reason, a new oversight committee, and a California
+  investigative subpoena), the book separates what is unconfirmed and
+  states that it does not judge who was a spy
+
 - The book's final layer is the one no instrument reaches: AI researchers
   and developers moving to the United States are down 89% from 2017 and
   80% in the past year, with net inflow falling from a 2022 peak of 324.6

@@ -4,7 +4,7 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Language](https://img.shields.io/badge/Language-Japanese%20%7C%20English-blue)](docs/)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--01-brightgreen)](https://github.com/Leading-AI-IO/us-china-ai-competition/releases)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--23-brightgreen)](https://github.com/Leading-AI-IO/us-china-ai-competition/releases)
 
 <p align="left">
   <img src="./assets/ogp_design.png" width="90%">
@@ -85,6 +85,7 @@ Rules will be amended, controls suspended, signatories added, and statistics rew
 | [**v1.0**](https://github.com/Leading-AI-IO/us-china-ai-competition/releases/tag/v1.0) | 2026-08-21 | Initial release |
 | [**v1.1**](https://github.com/Leading-AI-IO/us-china-ai-competition/releases/tag/v1.1) | 2026-09-16 | Additions to Chapter 6 and the Final Chapter reflecting that month's developments |
 | [**v2.0**](https://github.com/Leading-AI-IO/us-china-ai-competition/releases/tag/v2.0) | 2026-11-01 | Additions to Chapters 2, 3, 4, 6, 7 and the Final Chapter reflecting developments since August; corrections to the alliance layer in Chapter 6 and the Final Chapter (the Chinese side having no roster / 24 Pax Silica signatures) |
+| [**v2.1**](https://github.com/Leading-AI-IO/us-china-ai-competition/releases/tag/v2.1) | 2026-11-23 | Additions to Chapters 2, 3, 4, 7 and the Final Chapter reflecting November's developments (extensions of China's rare-earth suspension and the U.S. Affiliates Rule suspension; the investigations and announcements surrounding NVIDIA and Megaspeed; the new data-center rule, §744.24; removal of ECCN 4E091 and formal rescission of the AI Diffusion Rule) |
 
 See [Releases](https://github.com/Leading-AI-IO/us-china-ai-competition/releases) for details on each version.
 

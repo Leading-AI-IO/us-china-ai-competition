@@ -351,6 +351,28 @@ What moved in the autumn of 2026 was **the deadline.**<br/>
 And that deadline moved not in an announcement but in a summit outcome document and a minister's remarks.<br/>
 Which measures legally apply after November 10 — this book does not judge that until an announcement is issued.
 
+(Added on November 23, 2026)
+
+## The Announcement Came Out Dated the Day Before the Deadline
+
+In the previous section, this book withheld judgment.<br/>
+As of November 1, 2026, it had not confirmed any Ministry of Commerce announcement rewriting the suspension deadline.
+
+That announcement has been issued.<br/>
+**Ministry of Commerce and General Administration of Customs Announcement No. 58 of 2026.** It is dated November 9, 2026.<br/>
+Its text is a single sentence, providing as follows.<br/>
+The implementation of six announcements published on October 9, 2025 (MOFCOM and GAC Announcements Nos. 55, 56, 57, and 58 of 2025, and MOFCOM Announcements Nos. 61 and 62 of 2025) continues to be suspended from November 11, 2026 to January 10, 2027.
+
+The extended deadline is January 10, 2027.<br/>
+It matches the date Treasury Secretary Bessent was reported as having given.<br/>
+**Past November 10, the suspension of the October additions continues, according to the announcement.**
+
+Meanwhile, this announcement does not touch the April 2025 measures.<br/>
+Choosing what to stop and delimiting how long to stop it — the form this chapter read has not changed, even in an announcement that extends a deadline.
+
+On the same day, November 9, 2026, a suspension was also extended in the United States, to the same deadline of January 10, 2027.<br/>
+What is suspended there is a rule extending export controls to affiliates. It is read in the addendum to Chapter 3.
+
 ## What Is Decided Upstream Becomes Invisible Downstream
 
 Rare earths may not look like a story about AI.<br/>
@@ -380,6 +402,13 @@ The next chapter reads instruments that placed a ceiling not on quantity but **o
    <https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-advances-a-fair-and-reciprocal-relationship-with-china-while-hosting-historic-state-visit/>
 5. Bloomberg Government, "Bessent Says US, China Extend Their Trade Truce to Jan. 10" (September 23, 2026; press report)<br/>
    <https://news.bgov.com/international-trade/bessent-says-us-china-agreed-to-extend-trade-truce-to-jan-10>
+
+(Added on November 23, 2026)
+
+6. Ministry of Commerce and General Administration of Customs of the People's Republic of China, "商务部、海关总署公告2026年第58号 公布继续暂停实施商务部、海关总署公告2025年第55号、56号、57号、58号及商务部公告2025年第61号、62号的决定" (November 9, 2026; continued suspension of Announcements Nos. 55, 56, 57, 58, 61, and 62 of 2025 from November 11, 2026 to January 10, 2027)<br/>
+   <https://www.mofcom.gov.cn/zwgk/zcfb/art/2026/art_91466027f465467985942a639a9485f4.html>
+7. Japan External Trade Organization (JETRO), "中国、米中合意に基づく各種措置の暫定停止を2カ月延長" (China extends the provisional suspension of measures based on the U.S.-China agreement by two months; November 13, 2026; Business Short News)<br/>
+   <https://www.jetro.go.jp/biznews/2026/11/dfd9100d347161f5.html>
 
 <br/>
 
@@ -488,6 +517,127 @@ And one more thing.<br/>
 Before going to China, the chips enter the United States once, for inspection. At that entry, a tariff is levied.<br/>
 **A condition on export is generating a tariff on import.**
 
+(Added on November 23, 2026)
+
+## Outside the Line, There Was a Third-Country Company
+
+Of the January rule, this chapter wrote: "What moved was the performance classification of products, not the classification of covered parties."<br/>
+In November 2026, that classification of covered parties came to the center of a case.<br/>
+The company is Megaspeed, based in Singapore.
+
+The U.S. Department of Commerce and Department of Justice issued a joint statement on November 16, 2026.<br/>
+Noting that they do not normally comment on ongoing investigations, they made the following sequence public.
+
+* In 2024, Commerce became aware of activity suggesting the diversion of semiconductors and opened an investigation into Megaspeed for possible export control violations.
+* In May 2025, Commerce investigators requested from NVIDIA records of its direct and indirect sales to Megaspeed.
+* In June 2025, NVIDIA placed Megaspeed on its "no sell" list.
+* In the same June, BIS agents, working with Singaporean law enforcement, conducted an on-site end-use check at Megaspeed and interviewed its then-CEO, Alice Huang.
+* Since then, the Department of Justice has led a criminal investigation.
+
+The statement announces no indictment. Nor does it mention the Entity List.<br/>
+What it writes goes only as far as a policy: if criminal conduct occurred, it will be pursued to the full extent of the law.
+
+Singapore's Ministry of Home Affairs, in a release on November 12, 2026, wrote about the same company from its own side.
+
+* In February 2025, the Singapore Police Force and Singapore Customs independently opened an investigation into several companies, including Megaspeed, and their key officers. The suspicion is false declarations relating to server purchases.
+* The servers were purchased by the companies under investigation and, without entering the Singapore market, were exported via Singapore to Malaysia. What the police are examining is whether they were then moved from Malaysia to another destination, contrary to the declarations made in Singapore.
+* Regarding Ms. Huang (Huang Le), the police concluded in February 2026 that there was insufficient evidence to establish that she had committed an offence relating to the declarations under investigation. They did find that she had knowingly provided inaccurate information to downplay her role, administered a stern warning, and barred her from re-entering Singapore.
+* The release states explicitly that she was not investigated on suspicion of espionage.
+* Investigations into Megaspeed and six other individuals continue.
+
+And the release sets out a position on export controls.<br/>
+**Singapore does not enforce unilateral export controls imposed by other countries.**<br/>
+It does, however, expect companies to take such controls into account in their international transactions, and it will not tolerate the use of a nexus to Singapore to circumvent other countries' export controls through fraud or other illicit means.
+
+Set the two documents side by side, and the objects of investigation differ.<br/>
+What the United States is examining is possible violations of U.S. export controls.<br/>
+What Singapore is examining is false declarations made in Singapore.<br/>
+**Terms written by the United States are not enforced as law in a third country.** The Singapore government itself says so.
+
+On the route by which the chips moved, and in what quantity, there are multiple press reports.<br/>
+According to Kyodo News, relaying a report by the UK's Financial Times, Chinese companies subject to export controls used U.S. affiliates outside the controls, and those affiliates sold NVIDIA semiconductors to Megaspeed's side.<br/>
+This book has not reached primary sources corroborating that report. **It does not record the details of the route or the amounts.**<br/>
+What can be confirmed goes only as far as this: U.S. and Singaporean authorities are each continuing investigations under separate laws.
+
+## The Rule That Would Extend the Line to Affiliates Has Been Suspended
+
+The line around covered parties is drawn in two ways.<br/>
+One is the location of headquarters and parent companies. As read in this chapter, presumption of denial is maintained for companies headquartered or parented in Macau or a D:5 group country.<br/>
+The other is naming. Exports to parties named on the Entity List require an individual license.
+
+Naming has a place it cannot reach:<br/>
+affiliates whose names are not on the list.
+
+On September 30, 2025, BIS published in the Federal Register an interim final rule filling that gap (90 FR 47201).<br/>
+It applies the same restrictions as the list to **entities 50% or more owned**, directly or indirectly, individually or in the aggregate, by entities on the Entity List.<br/>
+It draws the line not by name but by tracing ownership.
+
+But this rule was suspended for one year from November 10, 2025 (90 FR 50857).<br/>
+The White House fact sheet on the U.S.-China agreement, published on November 1, 2025, places two things side by side in the same document.<br/>
+The United States will suspend implementation of this rule for one year. China will suspend implementation of the export controls on rare earths and other items it announced on October 9, 2025.<br/>
+**The rule extending the line to affiliates was suspended as a pair with the rare earth controls.**
+
+And on November 9, 2026, the suspension was extended to January 10, 2027 (91 FR 70789).<br/>
+The reason for the extension is not written in the text of the Federal Register notice.<br/>
+On the same date, China's Ministry of Commerce and General Administration of Customs issued an announcement extending the suspension of the October 9 measures to January 10, 2027 (see the addendum to Chapter 2).
+
+Naming has not moved either.<br/>
+Treasury Secretary Bessent was reported as saying on the U.S. channel CNBC on November 13, 2026, that four agencies, including the Treasury, had supported placing Megaspeed on the Entity List for months, but that the authority to decide rests with the Department of Commerce.
+
+**The rule that traces ownership has been written. Having been written, it has been suspended.**<br/>
+This chapter wrote that the standard is public but the authority to apply the standard is reserved.<br/>
+The same form appears here. The authority to write a provision extending the line and the authority to suspend it are held by the same side.
+
+## A Line Drawn on Data Centers by the Quantity of Compute
+
+On November 19, 2026, a new BIS interim final rule was published in the Federal Register and took effect the same day.<br/>
+"Addressing Remote Access to Advanced Semiconductors." Federal Register Vol.91 No.222, pp.74970-74999; FR Doc 2026-23529, Docket 261116-0005, RIN 0694-AK50.<br/>
+It was submitted to the Federal Register on November 16 — the same day Commerce and Justice issued their joint statement.
+
+The newly created §744.24 provides as follows.
+
+Where one has "knowledge" that advanced semiconductors or other items are destined for a certain data center, they may not be exported, reexported, or transferred (in-country) without a license.<br/>
+The data centers covered are those that provide, or will provide, access to compute of **more than 12,000,000 in aggregate TPP** to companies headquartered in Macau or a D:5 group country, or whose ultimate parent is headquartered there.<br/>
+Whether access is provided directly or indirectly does not matter.<br/>
+Nor does the location of the data center. The provision says: to any destination worldwide.<br/>
+Multiple data centers linked by networks and operating as one are counted together.<br/>
+License applications are reviewed case by case.
+
+The yardstick that separates covered parties has not changed from the January rule: the location of the headquarters and of the ultimate parent.<br/>
+In the preamble, BIS calls this control a logical extension of existing controls.
+
+The control it extends is also described in the preamble.<br/>
+Since October 2023, there had been a control to prevent companies headquartered in China and elsewhere from continuing to train AI models by placing cloud or data-center capacity in other countries (§744.23).<br/>
+According to BIS, that control reaches cases such as where such a company is the primary user of a data center's compute (more than 50% of the total).<br/>
+The new §744.24 does not ask whether a company is the primary user. It draws the line by whether the compute reaching companies in China and elsewhere exceeds 12,000,000 in aggregate TPP.<br/>
+**What changed is not where the line sits but the yardstick by which it is drawn.** The line is drawn not by who mainly uses the compute, but by how much compute passes to them.
+
+The rule also draws a line on changes after export.<br/>
+If, after the initial export, a data center begins providing this quantity of compute to companies in China and elsewhere, the data center's operator or others must obtain a license at that point (preamble; §744.24(e)).<br/>
+This prohibition extends even to persons who were not parties to the initial export (Note 1 to §744.24(a)(1)).
+
+The same rule names five countries:<br/>
+Indonesia, Malaysia, Singapore, Thailand, and Brazil. Exports of advanced semiconductors to these countries now require a license.<br/>
+As the reason, the rule cites a higher-than-usual risk of diversion.<br/>
+However, where the recipient is headquartered in the United States, or its ultimate parent is headquartered in the United States, no license is required, provided the exporter submits monthly reports.
+
+One of the notes states who bears the obligation to verify (Note 3 to §744.24(a)(1)).<br/>
+Suppliers are expected to obtain, and be able to produce, information on the customer due diligence a data center has performed.<br/>
+That due diligence includes whether the data center's customers are directly or indirectly owned or controlled by persons of Macau or a D:5 group country.<br/>
+Where a data center does not or cannot provide the information, this is treated as a "red flag," and unless the supplier resolves it, the supplier is presumed to have had "knowledge."<br/>
+The rule's summary asks each of data centers, foreign foundries, and chip exporters to conduct customer due diligence.
+
+The line drawn by the January rule also remains in the amended text.<br/>
+For end users in China and Macau, products with TPP below 21,000 and DRAM bandwidth below 6,500 GB/s are subject to case-by-case review, conditioned on submitting the information specified in (dd).<br/>
+Other applications for D:5 group countries and Macau, and applications for companies headquartered or with an ultimate parent headquartered there, remain under presumption of denial (amended §742.6(b)(10)(iii)(A)(2)).
+
+Note that in its text this rule uses "Super Intelligence (SI)" in place of "AI," following Executive Order 14434 (see the Final Chapter).
+
+This book does not judge any causal link between this rule and the Megaspeed investigation. The full text of the rule does not mention any individual case.<br/>
+What can be confirmed is the content of the provisions.<br/>
+The January rule drew a ceiling on the capability that may be transferred to China.<br/>
+The November rule drew a line on who may be allowed to use capability placed outside China.
+
 ## What Is Happening on the Countable Side
 
 What the instrument delimits is compute performance and memory bandwidth.<br/>
@@ -518,6 +668,25 @@ The object of the controls was not the chip alone.
 
 3. NVIDIA Corporation, "Form 10-Q, for the quarterly period ended July 26, 2026" (filed August 26, 2026; H200 licenses for China, restriction by the PRC government, $0.4 billion charge, less than 1% of Data Center revenue, inspection in the United States and 25% import tariff)<br/>
    <https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/>
+
+(Added on November 23, 2026)
+
+4. U.S. Department of Commerce / U.S. Department of Justice, "Joint Statement from Department of Commerce and Department of Justice on Megaspeed Investigation" (November 16, 2026; investigation opened in 2024, records request in May 2025, NVIDIA's "no sell" list and the on-site end-use check in June 2025, criminal investigation led by the Department of Justice)<br/>
+   <https://www.commerce.gov/sites/default/files/2026-11/DOC-DOJ-Joint-Statement.pdf>
+5. Ministry of Home Affairs, Singapore, "Singapore's Investigations into Alice Huang (Huang Le) and Megaspeed International Pte Ltd" (November 12, 2026; investigation opened in February 2025, suspected false declarations, conclusion of February 2026, not investigated for espionage, Singapore does not enforce unilateral export controls imposed by other countries)<br/>
+   <https://www.mha.gov.sg/media-room/newsroom/singapore-investigations-into-alice-huang-huang-le-and-megaspeed-international-pte-ltd/>
+6. Bureau of Industry and Security, U.S. Department of Commerce, "One Year Suspension of Expansion of End-User Controls for Affiliates of Certain Listed Entities," Federal Register Vol.90 No.216, pp.50857-50858 (FR Doc 2025-19846; published November 12, 2025; suspends the interim final rule of September 30, 2025, 90 FR 47201, from November 10, 2025 to November 9, 2026)<br/>
+   <https://www.govinfo.gov/content/pkg/FR-2025-11-12/html/2025-19846.htm>
+7. The White House, "Fact Sheet: President Donald J. Trump Strikes Deal on Economic and Trade Relations with China" (November 1, 2025; one-year suspension of the interim final rule on affiliates; China's suspension of the export controls announced on October 9, 2025)<br/>
+   <https://www.whitehouse.gov/fact-sheets/2025/11/fact-sheet-president-donald-j-trump-strikes-deal-on-economic-and-trade-relations-with-china/>
+8. Bureau of Industry and Security, U.S. Department of Commerce, "Extension of the Suspension of Expansion of End-User Controls for Affiliates of Certain Listed Entities," Federal Register Vol.91 No.215, pp.70789-70790 (FR Doc 2026-22793 / RIN 0694-AK34; published and effective November 9, 2026; suspension extended to January 10, 2027)<br/>
+   <https://www.govinfo.gov/content/pkg/FR-2026-11-09/html/2026-22793.htm>
+9. Bureau of Industry and Security, U.S. Department of Commerce, "Addressing Remote Access to Advanced Semiconductors," Federal Register Vol.91 No.222, pp.74970-74999 (FR Doc 2026-23529 / Docket 261116-0005 / RIN 0694-AK50; published and effective November 19, 2026; §744.24, the preamble's explanation of §744.23, license requirements for five countries, amended §742.6(b)(10)(iii)(A)(2), rescission of the AI Diffusion Rule)<br/>
+   <https://www.govinfo.gov/content/pkg/FR-2026-11-19/html/2026-23529.htm>
+10. Kyodo News, "対中密輸で『巨大闇市場』形成　エヌビディア半導体、英紙報道" (Smuggling to China forms a "huge black market" for NVIDIA semiconductors, UK paper reports; November 23, 2026; relays a Financial Times report; press report)<br/>
+   <https://news.jp/i/1497339610790068616>
+11. Reuters, "Bessent says Treasury favored limits on Megaspeed" (November 13, 2026; remarks on CNBC; press report)<br/>
+   <https://www.yahoo.com/news/politics/articles/bessent-says-treasury-favored-limits-141721285.html>
 
 <br/>
 
@@ -654,6 +823,33 @@ This book does not compare the two on a single scale, because their definitions 
 The specific criteria for the 23 AI items have been reported, but since this book has not reached the text of the draft revision, it does not record them.<br/>
 What can be confirmed goes only this far: **the United States is no longer the only side writing terms on the products of AI.**
 
+(Added on November 23, 2026)
+
+## The Provision Binding Weights as an Item Disappeared; the Provision Binding Connection Expanded
+
+The BIS rule that took effect on November 19, 2026 (see the addendum to Chapter 3) made two changes bearing on this chapter's subject as well.
+
+The first is a deletion.<br/>
+**ECCN 4E091**, which designated model weights as an item subject to export controls, was removed from the Commerce Control List.<br/>
+Along with it, the foreign direct product rule for model weights (§734.9(l)) was also removed.<br/>
+Both were provisions introduced by the AI Diffusion Rule of January 2025. The same rule formally rescinds the AI Diffusion Rule itself.<br/>
+As its reason, BIS writes that it judged license requirements based on destination or end use to be more effective.
+
+The second is an expansion.<br/>
+A provision drawing a line by the quantity of compute a data center provides to companies in China and elsewhere was newly created (§744.24).
+
+The two clauses this chapter read — the prohibition on transferring weights and the prohibition on providing remote access to trained algorithms — sit in (dd) of the January 15 rule.<br/>
+(dd) is the paragraph specifying the information that applicants for case-by-case review for China and Macau must submit.<br/>
+The list of amendments in the November 19 rule does not include any change to (dd). The amended text also continues to require the submission of information under (dd).
+
+To summarize:<br/>
+**The provision binding weights as an "item" disappeared. The provision binding "who may touch" compute expanded.**
+
+This chapter wrote that the object of control moved from the thing to what the thing produced.<br/>
+Beyond that point, the November rule places its center of gravity less on counting weights as a product and more on asking who uses the compute.<br/>
+The clause prohibiting the transfer of products remains as a condition of case-by-case review.<br/>
+This book does not judge which will become the main instrument going forward. It records the two provisions side by side.
+
 ## To Which Layer Have the Terms Been Written?
 
 A ceiling was drawn on physical performance, supply volume was bound as a ratio, the measuring party was designated, the transfer of products was prohibited, and even the provision of connection was prohibited.
@@ -677,6 +873,11 @@ What appears there is not opposition but **a difference in what each institution
 
 4. Xinhua, "商务部 科技部公告2026年第48号" (October 16, 2026; 40 items — 23 AI, 5 biomedicine, 12 photovoltaics; comments until November 15; interim export registration; exclusion of technologies in the public domain)<br/>
    <https://www.news.cn/20261016/c15d168f570a48838178ca74e12ca9e7/c.html>
+
+(Added on November 23, 2026)
+
+5. Bureau of Industry and Security, U.S. Department of Commerce, "Addressing Remote Access to Advanced Semiconductors," Federal Register Vol.91 No.222, pp.74970-74999 (FR Doc 2026-23529; published and effective November 19, 2026; removal of ECCN 4E091 and §734.9(l), creation of §744.24, rescission of the AI Diffusion Rule)<br/>
+   <https://www.govinfo.gov/content/pkg/FR-2026-11-19/html/2026-23529.htm>
 
 <br/>
 
@@ -1190,6 +1391,51 @@ But they are **terms imposed on those who come in.**<br/>
 The decline in inflows seen in this chapter (down 89% from 2017, down 80% in the past year) is a tally through 2025, and this book does not judge any causal link with this fee.<br/>
 What instruments can write extends only to the conditions at the entrance. Which country AI researchers choose still lies outside the instruments.
 
+(Added on November 23, 2026)
+
+## Instruments Reached for the Line This Chapter Called Hard to Write
+
+This chapter named two things that instruments cannot write: the movement of people, and the substantive relationship between company and state.<br/>
+And it wrote that the legal form of a head office's location does not necessarily match actual relationships of control.
+
+In November 2026, this point surfaced as a real case.
+
+First, the company side.<br/>
+Megaspeed is a Singaporean company. The joint statement of the U.S. Departments of Commerce and Justice also calls it that.<br/>
+Since 2024, the company has been under U.S. investigation for possible export control violations. In Singapore, too, it is under investigation on suspicion of false declarations (see the addendum to Chapter 3).<br/>
+In a letter to the Secretary of Commerce dated October 13, 2025, U.S. Senator Cotton, citing press reports, had asked that the company's ownership and affiliations be investigated.<br/>
+This book does not judge who substantively controls the company. Neither investigation has reached a conclusion.
+
+Next, the people side.<br/>
+On November 8, 2026, NVIDIA's board of directors announced that it would open an independent investigation following reports that founder and CEO Jensen Huang had been a target of foreign intelligence activity.<br/>
+The announcement states that the board has no reason to believe national security or NVIDIA's secrets were compromised, and that it will review all available information.<br/>
+On November 11, the board accepted Mr. Huang's resignation as President, CEO, and director, effective immediately. The current report (Form 8-K) filed with the U.S. Securities and Exchange Commission does not state the reason for the resignation.<br/>
+On November 17, NVIDIA announced that it would establish a standing National Security and Export Control Oversight Committee of the board.<br/>
+On November 19, the California Attorney General announced that he had served NVIDIA with an investigative subpoena. It asks about the possibility that advanced chips or confidential information reached China, and whether the company misled investors and the public.
+
+What has not been established is written separately.
+
+* The Associated Press reports that The New York Times reported U.S. intelligence officials had concluded that Megaspeed's former CEO was gathering information for China. This book has not reached primary sources showing that conclusion.
+* The Associated Press reports that China's Ministry of Foreign Affairs Spokesperson Guo Jiakun, at the regular press conference on November 9, 2026, rejected the allegation as groundless.
+* Singapore's Ministry of Home Affairs has announced that the former CEO was not investigated on suspicion of espionage.
+* Whether NVIDIA's secrets or advanced chips actually reached China: none of the public-agency documents this book has confirmed makes such a finding.
+
+**This book does not judge who was a spy.** The materials needed to judge have not been made public.
+
+That said, what happened on the side of the instruments can be confirmed.<br/>
+The rule that took effect on November 19 (see the addendum to Chapter 3) asks for verification of whether a data center's customers are directly or indirectly "owned or controlled" by persons of Macau or a D:5 group country.<br/>
+In the preamble, BIS writes that this verification prevents evasion of the new controls through corporate restructurings or spinoffs.<br/>
+Instruments reached for the substantive relationship this chapter called hard to write.
+
+The instrument did not, however, define that relationship.<br/>
+**It placed the obligation to verify on the seller and the data center.**<br/>
+If verification fails, the seller is presumed to have had "knowledge."<br/>
+This chapter wrote that the line lies not in technology but in institutions. The November rule moved the work of verifying that line into private transactions.
+
+This book's account of the layer of people does not change.<br/>
+What instruments can write extends to the conditions at the entrance and the conditions of transactions.<br/>
+Whose target an executive becomes — no instrument can decide that.
+
 ## What the Last Layer Shows
 
 In the competition to write the terms, two things could not be written.
@@ -1215,6 +1461,27 @@ But **what can be controlled and what decides the outcome are not necessarily th
 3. The White House, "Fact Sheet: President Donald J. Trump Further Enhances Program Integrity and Interagency Coordination in the H-1B Visa Program" (September 18, 2026; renewal of the $100,000 fee requirement, FY2027 registrations down almost 40%, registrations by the largest IT outsourcing firms down 92%)<br/>
    <https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-further-enhances-program-integrity-and-interagency-coordination-in-the-h-1b-visa-program/>
 
+(Added on November 23, 2026)
+
+4. NVIDIA Corporation, "Statement from NVIDIA Board of Directors" (November 8, 2026; launch of an independent investigation; no reason to believe national security or NVIDIA's secrets were compromised)<br/>
+   <https://investor.nvidia.com/news/press-release-details/2026/Statement-from-NVIDIA-Board-of-Directors/>
+5. NVIDIA Corporation, "Form 8-K" (report date November 11, 2026, filed November 12; acceptance of Mr. Huang's resignation as President, CEO, and director; appointment of an interim CEO and a board chair)<br/>
+   <https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvda-20261111.htm>
+6. NVIDIA Corporation, "NVIDIA Board of Directors Establishes National Security and Export Control Oversight Committee" (November 17, 2026)<br/>
+   <https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Board-of-Directors-Establishes-National-Security-and-Export-Control-Oversight-Committee/default.aspx>
+7. State of California Department of Justice, "Attorney General Bonta Serves Investigative Subpoena on Nvidia" (November 19, 2026)<br/>
+   <https://oag.ca.gov/news/press-releases/attorney-general-bonta-serves-investigative-subpoena-nvidia>
+8. U.S. Department of Commerce / U.S. Department of Justice, "Joint Statement from Department of Commerce and Department of Justice on Megaspeed Investigation" (November 16, 2026)<br/>
+   <https://www.commerce.gov/sites/default/files/2026-11/DOC-DOJ-Joint-Statement.pdf>
+9. Ministry of Home Affairs, Singapore, "Singapore's Investigations into Alice Huang (Huang Le) and Megaspeed International Pte Ltd" (November 12, 2026)<br/>
+   <https://www.mha.gov.sg/media-room/newsroom/singapore-investigations-into-alice-huang-huang-le-and-megaspeed-international-pte-ltd/>
+10. Senator Tom Cotton, "Letter to Secretary Howard Lutnick" (October 13, 2025; requests an investigation of Megaspeed's ownership and affiliations, based on The New York Times report of October 9, 2025)<br/>
+   <https://www.cotton.senate.gov/imo/media/doc/101325lutnickletter.pdf>
+11. Associated Press, "What we know and what we don't as Nvidia investigates an alleged spy plot involving its CEO" (November 9, 2026; published by PBS NewsHour; the content of The New York Times report and remarks by China's Ministry of Foreign Affairs Spokesperson Guo Jiakun; press report)<br/>
+   <https://www.pbs.org/newshour/world/what-we-know-and-what-we-dont-as-nvidia-investigates-an-alleged-spy-plot-involving-its-ceo>
+12. Bureau of Industry and Security, U.S. Department of Commerce, "Addressing Remote Access to Advanced Semiconductors," Federal Register Vol.91 No.222, pp.74970-74999 (FR Doc 2026-23529; published and effective November 19, 2026; the note on verifying ownership or control, and the preamble's statement on corporate restructurings and spinoffs)<br/>
+   <https://www.govinfo.gov/content/pkg/FR-2026-11-19/html/2026-23529.htm>
+
 <br/>
 
 ---
@@ -1239,6 +1506,12 @@ What was confirmed in each layer, set out on a single sheet.
 (Corrected on November 1, 2026)
 
 In the "Alliances" row of the table above, the Chinese-side entry "an action plan with no roster" overlooked the World Artificial Intelligence Cooperation Organization, whose founding agreement was signed on July 16, 2026 (29 founding members, headquartered in Shanghai). As of November 1, 2026, Pax Silica has 26 signatures (see the corrections to Chapter 6).
+
+(Added on November 23, 2026)
+
+The "Compute" row of the table above now also includes the rule that took effect on November 19, 2026 (FR Doc 2026-23529): a license requirement for data centers wherever located (more than 12,000,000 in aggregate TPP), and the naming of five countries (see the addendum to Chapter 3).<br/>
+The two clauses in the "Products" row remain. ECCN 4E091, which had been placed as a separate provision, was removed by the same rule (see the addendum to Chapter 4).<br/>
+The suspension period in the "Upstream" row was extended to January 10, 2027 (see the addendum to Chapter 2).
 
 Six layers have a party writing the terms.<br/>
 The last one does not.
@@ -1352,6 +1625,25 @@ Writing a rule and rescinding it are both done by the same party.<br/>
 **The authority to write and the authority to nullify what was written are held by the same side.** <br/>
 That a rule goes unenforced indicates the breadth of discretion held by the side writing the terms.
 
+(Added on November 23, 2026)
+
+The AI Diffusion Rule, described above as having "disappeared without ever being applied," was formally rescinded by the rule that took effect on November 19, 2026.<br/>
+For roughly a year and a half after the intent to rescind was announced, the text remained. It was then erased inside another rule.
+
+In November 2026, three examples of a different shape were added to the point that "that an instrument is written and that it takes effect are different matters" (see the addendum to Chapter 3).
+
+* The side that wrote a rule is suspending it: the suspension, and its extension, of the rule extending the line to affiliates.
+* Another country does not enforce a written rule as its own law: Singapore's Ministry of Home Affairs has announced as much.
+* Transactions suspected of passing outside a written rule are being investigated after the fact: Megaspeed. The investigations have not reached a conclusion.
+
+This book read non-enforcement as a sign of the breadth of discretion held by the side writing the terms.<br/>
+The first example fits this reading. It was the writing side that suspended the rule and extended the suspension.<br/>
+The second and third examples do not fit. **There are places outside the instruments that the writing side's discretion does not reach.**
+
+This book's proposition rests on identifying the party writing the terms.<br/>
+How far the written terms actually take effect, this book has not measured.<br/>
+The limit this objection pointed to has become more concrete than it was at the first edition.
+
 ### Objection 3: The frame of "a competition to write the terms" is itself unverified
 
 This book is written on the premise that the design of terms shapes the outcome of competition.<br/>
@@ -1403,6 +1695,13 @@ On November 1, 2026, additions reflecting developments since August of that year
 At the same time, statements in Chapter 6 and the Final Chapter were corrected.<br/>
 The first edition wrote that the Chinese-side framework had no roster. But before the first edition was published, an organization with a roster had already been created.<br/>
 **Part of what this book said could not be counted, could be counted.** This book records that miss as an edition.
+
+(Added on November 23, 2026)
+
+On November 23, 2026, additions reflecting that month's developments were made to Chapters 2, 3, 4, and 7 and to the Final Chapter.<br/>
+For the judgment withheld in Chapter 2, an announcement has been issued.<br/>
+The events surrounding NVIDIA and Megaspeed are ongoing. This book has written in the main text only what could be confirmed in documents of public agencies, and has stated explicitly where an account rests on press reports.<br/>
+When the investigations produce results, the next edition will record whether the statements in this edition were right or wrong.
 
 But something will not be updated.<br/>
 **The disposition to confirm, in documents, who is writing the terms.**

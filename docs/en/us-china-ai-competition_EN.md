@@ -359,9 +359,10 @@ In the previous section, this book withheld judgment.<br/>
 As of November 1, 2026, it had not confirmed any Ministry of Commerce announcement rewriting the suspension deadline.
 
 That announcement has been issued.<br/>
-**Ministry of Commerce and General Administration of Customs Announcement No. 58 of 2026.** It is dated November 9, 2026.<br/>
+**Ministry of Commerce and General Administration of Customs Announcement No. 58 of 2026.** The General Administration of Customs is China's customs authority. The announcement is dated November 9, 2026.<br/>
 Its text is a single sentence, providing as follows.<br/>
-The implementation of six announcements published on October 9, 2025 (MOFCOM and GAC Announcements Nos. 55, 56, 57, and 58 of 2025, and MOFCOM Announcements Nos. 61 and 62 of 2025) continues to be suspended from November 11, 2026 to January 10, 2027.
+The implementation of six announcements published on October 9, 2025 (MOFCOM and GAC Announcements Nos. 55, 56, 57, and 58 of 2025, and MOFCOM Announcements Nos. 61 and 62 of 2025) continues to be suspended from November 11, 2026 to January 10, 2027.<br/>
+The six are the series of export control announcements China issued on October 9, 2025. The addition of five elements in October read in this chapter falls among that day's measures.
 
 The extended deadline is January 10, 2027.<br/>
 It matches the date Treasury Secretary Bessent was reported as having given.<br/>
@@ -522,10 +523,26 @@ Before going to China, the chips enter the United States once, for inspection. A
 ## Outside the Line, There Was a Third-Country Company
 
 Of the January rule, this chapter wrote: "What moved was the performance classification of products, not the classification of covered parties."<br/>
-In November 2026, that classification of covered parties came to the center of a case.<br/>
-The company is Megaspeed, based in Singapore.
+In November 2026, that classification of covered parties came to the center of a case.
+
+It began with reports about NVIDIA.<br/>
+In November 2026, it was reported that Jensen Huang, NVIDIA's founder and CEO, had been a target of foreign intelligence activity.<br/>
+On November 8, NVIDIA's board of directors announced that, in response to these reports, it would open an independent investigation; on November 11, it accepted Jensen Huang's resignation.<br/>
+The Associated Press article relaying the allegations names a Singaporean company, Megaspeed, and its former CEO.<br/>
+What the reports say, and what has not been established, are set out separately in the addendum to Chapter 7. This chapter reads where Megaspeed stands relative to the lines drawn by export controls.
+
+Megaspeed is a company incorporated in Singapore (Singapore Ministry of Home Affairs).<br/>
+Alice Huang, its then-CEO and Chairperson and one of its key controllers, is a Hong Kong resident and was not based in Singapore (ibid.).<br/>
+None of the public-agency documents this book has confirmed describes the company's business. What they describe is suspected diversion of semiconductors and declarations relating to server purchases.
+
+The D:5 group is the group of countries that the U.S. export control regulations designate as subject to a U.S. arms embargo; it includes China and Russia, among others. Macau is treated separately in the regulations.<br/>
+Singapore is not in the D:5 group.<br/>
+So long as the line is drawn by the location of headquarters, a Singaporean company sits outside the scope in which the January rule maintained presumption of denial.<br/>
+This book does not judge who substantively controls the company (see the addendum to Chapter 7).<br/>
+What is read here is what the U.S. and Singaporean authorities each wrote about a company standing outside that line.
 
 The U.S. Department of Commerce and Department of Justice issued a joint statement on November 16, 2026.<br/>
+The statement says the investigation of the company had attracted significant public attention in the past week, and that it was issued to address inaccurate information circulating in public reporting.<br/>
 Noting that they do not normally comment on ongoing investigations, they made the following sequence public.
 
 * In 2024, Commerce became aware of activity suggesting the diversion of semiconductors and opened an investigation into Megaspeed for possible export control violations.
@@ -534,14 +551,14 @@ Noting that they do not normally comment on ongoing investigations, they made th
 * In the same June, BIS agents, working with Singaporean law enforcement, conducted an on-site end-use check at Megaspeed and interviewed its then-CEO, Alice Huang.
 * Since then, the Department of Justice has led a criminal investigation.
 
-The statement announces no indictment. Nor does it mention the Entity List.<br/>
+The statement announces no indictment. Nor does it mention the Entity List (the list on which the U.S. Department of Commerce names foreign companies, organizations, and others to whom exports require an individual license).<br/>
 What it writes goes only as far as a policy: if criminal conduct occurred, it will be pursued to the full extent of the law.
 
 Singapore's Ministry of Home Affairs, in a release on November 12, 2026, wrote about the same company from its own side.
 
 * In February 2025, the Singapore Police Force and Singapore Customs independently opened an investigation into several companies, including Megaspeed, and their key officers. The suspicion is false declarations relating to server purchases.
 * The servers were purchased by the companies under investigation and, without entering the Singapore market, were exported via Singapore to Malaysia. What the police are examining is whether they were then moved from Malaysia to another destination, contrary to the declarations made in Singapore.
-* Regarding Ms. Huang (Huang Le), the police concluded in February 2026 that there was insufficient evidence to establish that she had committed an offence relating to the declarations under investigation. They did find that she had knowingly provided inaccurate information to downplay her role, administered a stern warning, and barred her from re-entering Singapore.
+* Regarding Alice Huang (Huang Le), the police concluded in February 2026 that there was insufficient evidence to establish that she had committed an offence relating to the declarations under investigation. They did find that she had knowingly provided inaccurate information to downplay her role, administered a stern warning, and barred her from re-entering Singapore.
 * The release states explicitly that she was not investigated on suspicion of espionage.
 * Investigations into Megaspeed and six other individuals continue.
 
@@ -568,7 +585,8 @@ The other is naming. Exports to parties named on the Entity List require an indi
 Naming has a place it cannot reach:<br/>
 affiliates whose names are not on the list.
 
-On September 30, 2025, BIS published in the Federal Register an interim final rule filling that gap (90 FR 47201).<br/>
+On September 30, 2025, BIS published in the Federal Register an interim final rule filling that gap (90 FR 47201, meaning Volume 90 of the Federal Register, page 47201; the same format is used below).<br/>
+An interim final rule takes effect without a prior comment period and accepts comments after it takes effect.<br/>
 It applies the same restrictions as the list to **entities 50% or more owned**, directly or indirectly, individually or in the aggregate, by entities on the Entity List.<br/>
 It draws the line not by name but by tracing ownership.
 
@@ -598,13 +616,14 @@ The newly created §744.24 provides as follows.
 
 Where one has "knowledge" that advanced semiconductors or other items are destined for a certain data center, they may not be exported, reexported, or transferred (in-country) without a license.<br/>
 The data centers covered are those that provide, or will provide, access to compute of **more than 12,000,000 in aggregate TPP** to companies headquartered in Macau or a D:5 group country, or whose ultimate parent is headquartered there.<br/>
+"Knowledge" here, as defined in the export control regulations, includes not only positive knowledge but also awareness of a high probability.<br/>
 Whether access is provided directly or indirectly does not matter.<br/>
 Nor does the location of the data center. The provision says: to any destination worldwide.<br/>
 Multiple data centers linked by networks and operating as one are counted together.<br/>
 License applications are reviewed case by case.
 
 The yardstick that separates covered parties has not changed from the January rule: the location of the headquarters and of the ultimate parent.<br/>
-In the preamble, BIS calls this control a logical extension of existing controls.
+In the preamble (the explanation of purpose and reasons placed before the regulatory text), BIS calls this control a logical extension of existing controls.
 
 The control it extends is also described in the preamble.<br/>
 Since October 2023, there had been a control to prevent companies headquartered in China and elsewhere from continuing to train AI models by placing cloud or data-center capacity in other countries (§744.23).<br/>
@@ -671,9 +690,9 @@ The object of the controls was not the chip alone.
 
 (Added on November 23, 2026)
 
-4. U.S. Department of Commerce / U.S. Department of Justice, "Joint Statement from Department of Commerce and Department of Justice on Megaspeed Investigation" (November 16, 2026; investigation opened in 2024, records request in May 2025, NVIDIA's "no sell" list and the on-site end-use check in June 2025, criminal investigation led by the Department of Justice)<br/>
+4. U.S. Department of Commerce / U.S. Department of Justice, "Joint Statement from Department of Commerce and Department of Justice on Megaspeed Investigation" (November 16, 2026; the investigation having attracted significant public attention in the past week; investigation opened in 2024, records request in May 2025, NVIDIA's "no sell" list and the on-site end-use check in June 2025, criminal investigation led by the Department of Justice)<br/>
    <https://www.commerce.gov/sites/default/files/2026-11/DOC-DOJ-Joint-Statement.pdf>
-5. Ministry of Home Affairs, Singapore, "Singapore's Investigations into Alice Huang (Huang Le) and Megaspeed International Pte Ltd" (November 12, 2026; investigation opened in February 2025, suspected false declarations, conclusion of February 2026, not investigated for espionage, Singapore does not enforce unilateral export controls imposed by other countries)<br/>
+5. Ministry of Home Affairs, Singapore, "Singapore's Investigations into Alice Huang (Huang Le) and Megaspeed International Pte Ltd" (November 12, 2026; incorporation in Singapore; Alice Huang as a Hong Kong resident and then-CEO, Chairperson, and one of the key controllers; investigation opened in February 2025, suspected false declarations, conclusion of February 2026, not investigated for espionage, Singapore does not enforce unilateral export controls imposed by other countries)<br/>
    <https://www.mha.gov.sg/media-room/newsroom/singapore-investigations-into-alice-huang-huang-le-and-megaspeed-international-pte-ltd/>
 6. Bureau of Industry and Security, U.S. Department of Commerce, "One Year Suspension of Expansion of End-User Controls for Affiliates of Certain Listed Entities," Federal Register Vol.90 No.216, pp.50857-50858 (FR Doc 2025-19846; published November 12, 2025; suspends the interim final rule of September 30, 2025, 90 FR 47201, from November 10, 2025 to November 9, 2026)<br/>
    <https://www.govinfo.gov/content/pkg/FR-2025-11-12/html/2025-19846.htm>
@@ -830,9 +849,9 @@ What can be confirmed goes only this far: **the United States is no longer the o
 The BIS rule that took effect on November 19, 2026 (see the addendum to Chapter 3) made two changes bearing on this chapter's subject as well.
 
 The first is a deletion.<br/>
-**ECCN 4E091**, which designated model weights as an item subject to export controls, was removed from the Commerce Control List.<br/>
-Along with it, the foreign direct product rule for model weights (§734.9(l)) was also removed.<br/>
-Both were provisions introduced by the AI Diffusion Rule of January 2025. The same rule formally rescinds the AI Diffusion Rule itself.<br/>
+**ECCN 4E091**, which designated model weights as an item subject to export controls, was removed from the Commerce Control List. An ECCN is a classification number on that list.<br/>
+Along with it, the foreign direct product rule for model weights (§734.9(l)) was also removed. This is a provision that extends U.S. export controls to items made outside the United States, if they were made using U.S. technology or similar inputs.<br/>
+Both were provisions introduced by the AI Diffusion Rule of January 2025. The AI Diffusion Rule required licenses for exports of advanced semiconductors and model weights under tiers set by country, and its intended rescission had been announced in May of that year (see Objection 2 in the Final Chapter). The same rule formally rescinds the AI Diffusion Rule itself.<br/>
 As its reason, BIS writes that it judged license requirements based on destination or end use to be more effective.
 
 The second is an expansion.<br/>
@@ -1403,13 +1422,13 @@ In November 2026, this point surfaced as a real case.
 First, the company side.<br/>
 Megaspeed is a Singaporean company. The joint statement of the U.S. Departments of Commerce and Justice also calls it that.<br/>
 Since 2024, the company has been under U.S. investigation for possible export control violations. In Singapore, too, it is under investigation on suspicion of false declarations (see the addendum to Chapter 3).<br/>
-In a letter to the Secretary of Commerce dated October 13, 2025, U.S. Senator Cotton, citing press reports, had asked that the company's ownership and affiliations be investigated.<br/>
+In a letter to the Secretary of Commerce dated October 13, 2025, U.S. Senator Tom Cotton, citing press reports, had asked that the company's ownership and affiliations be investigated.<br/>
 This book does not judge who substantively controls the company. Neither investigation has reached a conclusion.
 
 Next, the people side.<br/>
 On November 8, 2026, NVIDIA's board of directors announced that it would open an independent investigation following reports that founder and CEO Jensen Huang had been a target of foreign intelligence activity.<br/>
 The announcement states that the board has no reason to believe national security or NVIDIA's secrets were compromised, and that it will review all available information.<br/>
-On November 11, the board accepted Mr. Huang's resignation as President, CEO, and director, effective immediately. The current report (Form 8-K) filed with the U.S. Securities and Exchange Commission does not state the reason for the resignation.<br/>
+On November 11, the board accepted Jensen Huang's resignation as President, CEO, and director, effective immediately. The current report (Form 8-K) filed with the U.S. Securities and Exchange Commission does not state the reason for the resignation.<br/>
 On November 17, NVIDIA announced that it would establish a standing National Security and Export Control Oversight Committee of the board.<br/>
 On November 19, the California Attorney General announced that he had served NVIDIA with an investigative subpoena. It asks about the possibility that advanced chips or confidential information reached China, and whether the company misled investors and the public.
 
@@ -1465,7 +1484,7 @@ But **what can be controlled and what decides the outcome are not necessarily th
 
 4. NVIDIA Corporation, "Statement from NVIDIA Board of Directors" (November 8, 2026; launch of an independent investigation; no reason to believe national security or NVIDIA's secrets were compromised)<br/>
    <https://investor.nvidia.com/news/press-release-details/2026/Statement-from-NVIDIA-Board-of-Directors/>
-5. NVIDIA Corporation, "Form 8-K" (report date November 11, 2026, filed November 12; acceptance of Mr. Huang's resignation as President, CEO, and director; appointment of an interim CEO and a board chair)<br/>
+5. NVIDIA Corporation, "Form 8-K" (report date November 11, 2026, filed November 12; acceptance of Jensen Huang's resignation as President, CEO, and director; appointment of an interim CEO and a board chair)<br/>
    <https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvda-20261111.htm>
 6. NVIDIA Corporation, "NVIDIA Board of Directors Establishes National Security and Export Control Oversight Committee" (November 17, 2026)<br/>
    <https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Board-of-Directors-Establishes-National-Security-and-Export-Control-Oversight-Committee/default.aspx>
